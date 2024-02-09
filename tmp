@@ -1,0 +1,5 @@
+
+cat /tmp/norm.py import unicodedata
+a = unicodedata.normalize('NFC', 'Amélie') 
+print(a) a = unicodedata.normalize('NFD', 'Amélie') 
+print(a, end='')
