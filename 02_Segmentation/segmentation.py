@@ -17,10 +17,10 @@ while line:
 		if token [-1] in '!?':
 			sys.stdout.write(token + '\n')
 		elif token[-1] == '.':
-
-			if token in ['a. C.', 'd. C.', 'J.', 'etc.', 'i.e.', '(e.g.']:
+			abbr = token.strip('()')
+			if abbr in ['etc.', 'i.e.', 'e.g.', 'v.t.', 'st.', 'cf.']:
 				sys.stdout.write(token + ' ')
-			elif re.match('[a-zA-Z]\.', token):
+			elif re.match(r'[a-zA-Z]\.', abbr):
 				sys.stdout.write(token + ' ')
 			else:
 				sys.stdout.write(token + '\n')
