@@ -18,7 +18,7 @@ while line:
 			sys.stdout.write(token + '\n')
 		elif token[-1] == '.':
 			abbr = token.strip('()')
-			if abbr in ['etc.', 'i.e.', 'e.g.', 'v.t.', 'st.', 'cf.']:
+			if abbr in ['etc.', 'i.e.', 'e.g.', 'v.t.', 'st.', 'cf.', 'fl.']:
 				sys.stdout.write(token + ' ')
 			elif re.match(r'[a-zA-Z]\.', abbr):
 				sys.stdout.write(token + ' ')

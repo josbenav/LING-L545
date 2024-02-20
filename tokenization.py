@@ -1,6 +1,7 @@
 import sys, re 
 
-abbr = ['etc.', 'e.g.', 'i.e.']
+
+abbr = ['etc.', 'i.e.', 'e.g.', 'v.t.', 'st.', 'cf.', 'fl.']
 
 def tokenise(line, abbr):
 	line =  re.sub(r'([\(\)"?:!;])', r' \g<1> ', line)
