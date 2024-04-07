@@ -23,8 +23,7 @@ Nouns ;
 
 LEXICON N
 
-CASE ;
-
+%<n%>: CASE ;
 
 
 LEXICON CASE
