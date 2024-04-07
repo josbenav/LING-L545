@@ -1,6 +1,7 @@
 Multichar_Symbols
 
 %>          ! Morpheme boundary
+%<n%>       ! Noun
 %<abs%>     ! Absolutive
 %<erg%>     ! Ergative
 %<dat%>     ! Dative
@@ -14,6 +15,7 @@ Multichar_Symbols
 %<com%>     ! Comitative
 %<ben%>     ! Benefactive
 %<caus%>    ! Causal
+%{a%}
 
 
 LEXICON Root
