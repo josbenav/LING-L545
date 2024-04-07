@@ -1,0 +1,70 @@
+Multichar_Symbols
+
+%>          ! Morpheme boundary
+%<abs%>     ! Absolutive
+%<erg%>     ! Ergative
+%<dat%>     ! Dative
+%<gen%>     ! Genitive
+%<inst%>    ! Instrumental
+%<loc%>     ! Locative
+%<alla%>    ! Allative
+%<abla%>    ! Ablative
+%<term%>    ! Terminative
+%<dir%>     ! Directional
+%<com%>     ! Comitative
+%<ben%>     ! Benefactive
+%<caus%>    ! Causal
+
+
+LEXICON Root
+
+Nouns ; 
+
+
+LEXICON N
+
+CASE ;
+
+
+
+LEXICON CASE
+
+%<abs%>:%>a # ; ! "intrans subject, trans DO / singular"
+%<erg%>:%>{a}k # ; ! "transitive subject"
+%<dat%>:%>i # ; ! "indirect object"
+%<gen%>:%>en # ; ! "possession"
+%<inst%>:%>z # ; ! "means or topic"
+%<loc%>:%>n # ; ! "rest place ('in', 'on', 'at'), morion into ('into')
+%<alla%>:%>ra # ; ! "goal of motion ('to')"
+%<abla%>:%>tik # ; ! "motion source ('from', 'away from', 'out of')"
+%<term%>:%>raino # ; ! "termination ('as far as', 'up to', 'until')
+%<dir%>:%>rantz # ; ! "direction of motion ('toward')
+%<com%>:%>ekin # ; ! "accompaniment"
+%<ben%>:%>entzat # ; ! "benefactive"
+%<caus%>:%>engatik # ; ! "cause/reason"
+
+
+LEXICON Nouns 
+
+emakume:emakume N ; ! "woman"
+gizon:gizon N ; ! "man"  
+lagün:lagün N ; ! "friend"
+ume:ume N ; ! "child"
+lehengusu:lehengusu N ; ! "cousin"
+idazle:idazle N ; ! "writer"
+emazte:emazte N ; ! "wife"
+irakasle:irakasle N ; ! "teacher"
+abere:abere N ; ! "animal"
+etxe:etxe N ; ! "house"
+liburu:liburu N ; ! "book" 
+lore:lore N ; ! "flower"
+buru:buru N ; ! "head"
+bihotz:bihotz N ; ! "heart"
+oin:oin N ; ! "foot"
+esku:asku N ; ! "hand"
+hatz:hatz N ; ! "finger"
+beso:beso N ; ! "arm"
+eraztun:eraztun N ; ! "ring"
+itsaso:itsaso N ; ! "sea" 
+txokolate:txocolate N ; ! "chocolate"
+kale:kale N ; ! "street"
