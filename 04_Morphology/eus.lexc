@@ -75,8 +75,6 @@ txori:txori A_N ; ! "bird" ;
 arrano:arrano A_N ; ! "eagle" ;
 
 
-
-
 LEXICON I_N
 
 %<n%>: CASEII ;
