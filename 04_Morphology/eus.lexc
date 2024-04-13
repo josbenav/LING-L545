@@ -1,71 +1,121 @@
 Multichar_Symbols
 
-%>          ! Morpheme boundary
-%<n%>       ! Noun
-%<abs%>     ! Absolutive
-%<erg%>     ! Ergative
-%<dat%>     ! Dative
-%<gen%>     ! Genitive
-%<inst%>    ! Instrumental
-%<loc%>     ! Locative
-%<alla%>    ! Allative
-%<abla%>    ! Ablative
-%<term%>    ! Terminative
-%<dir%>     ! Directional
-%<com%>     ! Comitative
-%<ben%>     ! Benefactive
-%<caus%>    ! Causal
-%{a%}
+%>              ! Morpheme boundary
+%<n%>           ! Noun
+%<indef%>       ! Indefinite
+%<def%>         ! Definite
+%<sing%>        ! Singular
+%<pl%>          ! Plural
+!Animate definite plural
+%<abs%>         ! Absolutive
+%<erg%>         ! Ergative 
+%<dat%>         ! Dative 
+%<gen%>         ! Genitive 
+%<inst%>        ! Instrumental
+%<com%>         ! Comitative 
+%<ben%>         ! Benefactive
+%<csl%>         ! Causal 
+!Inanimate definite singular
+%<ine%>         ! Inessive 
+%<ela%>         ! Elative 
+%<all%>         ! Allative 
+%<ter%>         ! Terminal
+%<dir%>         ! Directional
+%<lgen%>        ! Local genitive
+%<dest%>        ! Destinative
+%<igen%>        ! Inanimate genitive
+!Archicharacters
+%{a%}           ! Archivowel 'a'
+%{e%}           ! Archivowel 'e'
+%{r%}           ! Archicharacter 'r'
 
 
 LEXICON Root
 
-Nouns ; 
+INANIMATE_NOUNS ;
+ANIMATE_NOUNS ;
 
 
-LEXICON N
 
-%<n%>: CASE ;
+LEXICON A_N
+
+%<n%>: CASEI ;
+
+LEXICON CASEI
+
+%<indef%>: # ; ! "indefinite"
+%<def%>%<sing%>:%>%{r%}%{a%} # ; ! "definite singular"
+%<def%>%<pl%>:%>%{r%}%{a%}k # ; ! "definite plural"
+
+%<abs%>: # ; ! "intransitive subject, transitive direct object" 
+%<erg%>:%>%{r%}%{e%}k # ; ! "transitive subject"
+%<dat%>:%>%{r%}%{e%}i # ; ! "indirect object (to, for)"
+%<gen%>:%>%{r%}en # ; ! "possession (of, 's)"
+%<inst%>:%>%{e%}z # ; ! "means or topic (with, by, about)"
+%<com%>:%>%{r%}ekin # ; ! "accompaniment or means (with)"
+%<ben%>:%>%{r%}entzat # ; ! "beneficiary (for)"
+%<csl%>:%>%{r%}engatik # ; ! "cause, reason (because of, for)"
+
+LEXICON ANIMATE_NOUNS
+
+gizon:gizon A_N ; ! "man" ; 
+andere:andere A_N ; ! "woman" ;
+senar:senar A_N ; ! "husband" ; 
+emazte:emazte  A_N ; ! "wife" ;
+alab:alab A_N ; ! "daughter" ;
+seme:seme A_N ; ! "son" ;
+irakasle:irakasle A_N ; ! "cousin" ;
+ume:ume A_N ; ! "child" ;
+lagun:lagun A_N ; ! "friend" ;
+asto:asto A_N ; ! "donkey" ;
+zaldi:zaldi A_N ; ! "horse" ;
+txakur:txakur A_N ; ! "dog" ;
+hartz:hartz A_N ; ! "bear" ;
+txori:txori A_N ; ! "bird" ;
+arrano:arrano A_N ; ! "eagle" ;
 
 
-LEXICON CASE
-
-%<abs%>:%>a # ; ! "intrans subject, trans DO / singular"
-%<erg%>:%>{a}k # ; ! "transitive subject"
-%<dat%>:%>i # ; ! "indirect object"
-%<gen%>:%>en # ; ! "possession"
-%<inst%>:%>z # ; ! "means or topic"
-%<loc%>:%>n # ; ! "rest place ('in', 'on', 'at'), morion into ('into')
-%<alla%>:%>ra # ; ! "goal of motion ('to')"
-%<abla%>:%>tik # ; ! "motion source ('from', 'away from', 'out of')"
-%<term%>:%>raino # ; ! "termination ('as far as', 'up to', 'until')
-%<dir%>:%>rantz # ; ! "direction of motion ('toward')
-%<com%>:%>ekin # ; ! "accompaniment"
-%<ben%>:%>entzat # ; ! "benefactive"
-%<caus%>:%>engatik # ; ! "cause/reason"
 
 
-LEXICON Nouns 
+LEXICON I_N
 
-emakume:emakume N ; ! "woman"
-gizon:gizon N ; ! "man"  
-lagün:lagün N ; ! "friend"
-ume:ume N ; ! "child"
-lehengusu:lehengusu N ; ! "cousin"
-idazle:idazle N ; ! "writer"
-emazte:emazte N ; ! "wife"
-irakasle:irakasle N ; ! "teacher"
-abere:abere N ; ! "animal"
-etxe:etxe N ; ! "house"
-liburu:liburu N ; ! "book" 
-lore:lore N ; ! "flower"
-buru:buru N ; ! "head"
-bihotz:bihotz N ; ! "heart"
-oin:oin N ; ! "foot"
-esku:asku N ; ! "hand"
-hatz:hatz N ; ! "finger"
-beso:beso N ; ! "arm"
-eraztun:eraztun N ; ! "ring"
-itsaso:itsaso N ; ! "sea" 
-txokolate:txocolate N ; ! "chocolate"
-kale:kale N ; ! "street"
+%<n%>: CASEII ;
+
+LEXICON CASEII
+
+%<indef%>: # ; ! "indefinite"
+%<def%>%<sing%>:%>%{a%} # ; ! "definite singular"
+%<def%>%<pl%>:%>%{a%}k # ; ! "definite plural"
+
+%<ine%>:%>%{a%}n # ; ! "spatial or temporal location (in, at, on)"
+%<ela%>:%>tik # ; ! "source of motion (from, since, out of)"
+%<all%>:%>ra # ; ! "goal of motion (to)"
+%<ter%>:%>raino # ; ! "termination (as far as, up to, until)"
+%<dir%>:%>rantz # ; ! "direction of motion (toward)"
+%<lgen%>:%>%{a%}rena # ; ! "pertaining to where/when: 'of', 'from'"
+%<dest%>:%>rako # ; ! "inanimate destination ('for' a thing)"
+%<igen%>:%>ko # ; ! "genitives in (some) inanimates"
+
+
+LEXICON INANIMATE_NOUNS
+
+ibai:ibai I_N ; ! "river" ;
+etxe:etxe I_N ; ! "house" ; 
+azoka:azoka I_N ; ! "market"
+eskola:eskola I_N ; ! "school" ; 
+eliza:eliza I_N ; ! "church" ;
+lorategi:lorategi I_N ; ! "garden" ;
+okindegi:okindegi I_N ; ! "bakery" ; 
+harategi:harategi I_N ; ! "butchery" ;
+zuhaitz:zuhaitz I_N ; ! "tree" ; 
+mahai:mahai I_N ; ! "table" ; 
+liburu:liburu I_N ; ! "book" ; 
+ate:ate I_N ; ! "door" ; 
+mendi:mendi I_N ; ! "mountain" ;
+
+!Inanimate nouns taking "other" cases 
+etxe:etxe A_N ; ! "house" ;
+azoka:azoka A_N ; ! "market"
+eskola:eskola A_N ; ! "school" ;
+lorategi:lorategi A_N ; ! "garden" ;
+mendi:mendi A_N ; ! "mountain" ; 
