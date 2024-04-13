@@ -22,7 +22,7 @@ Rules
 "Remove morpheme boundary"
 %>:0 <=> _ ;
 
-"Remove [a] after another vowel a"
+"Remove [a] after a"
 %{a%}:0 <=> Vow: %>: _ ;
 
 "Insert [a] after another consonant"
