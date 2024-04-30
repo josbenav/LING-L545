@@ -1,0 +1,161 @@
+# so that SETPARENT will skip words that
+# already have parents 
+OPTIONS += safe-setparent ;
+
+
+# Firstly, we need to define what tags should be considered sentence delimiters. For this example, only 
+# full stop is set as delimiter.
+DELIMITERS = "<.>" "<?>" ;
+
+
+# We can define sets for common tag clusters
+# LIST Case = (n s) (n p) ; # A set that matches either a Noun Singular or a Noun Plural
+LIST Number = sg pl ;
+LIST Subj = p1 p2 p3 ;
+LIST Obj = o1 o2 o3 ; 
+LIST Adj = adj ;
+LIST Agr = agr ; 
+LIST Adv = adv ; 
+LIST V = v ; 
+LIST Top = top ; 
+LIST Foc = foc ; 
+LIST laa = "laa" ; 
+LIST Comp = comp ; 
+LIST Dem = dem ; 
+LIST Sent = sent ; 
+LIST N = n ; 
+LIST Nmlz = nmlz ; 
+LIST Prop = np ;
+LIST Irr = irr ; 
+LIST Dem = dem ;
+LIST Cl = cl ;  
+
+LIST Za = "za" ; 
+LIST Ma = "ma" ; 
+LIST Taw = "taw" ;
+
+LIST Qst = "qst" ;
+LIST Qnt = qnt ; 
+
+SET Pron = Subj | Obj ; 
+
+
+SECTION
+
+## Safe rules 
+SELECT V OR Adj IF (1 Sent) ;
+SELECT (qp) IF (1 Sent) ;
+SELECT (adj) IF (1 Sent) ; 
+SELECT (agr) IF (1 V LINK 1 Sent) ; 
+SELECT (dei ven) IF (1 V) ;
+SELECT Top IF (-1 Subj) ;
+SELECT (agt) IF (1 Pron) ;
+SELECT (agr) + Subj IF (1 V) ;
+SELECT (agt) IF (-1 Prop) ; 
+SELECT (agt) IF (-1 N) ; 
+SELECT (det def) IF (1 N) ; 
+SELECT Foc IF (-1 N) ; 
+SELECT (qp) IF (-1C (qst)) ; 
+REMOVE (dei ven) IF (1 Sent) ;
+REMOVE (nrel) IF (1 Sent) ;
+REMOVE Nmlz IF (1 Sent) ;
+REMOVE Adj IF (NOT 1 Sent) ;
+REMOVE (agr) + Subj IF (-1 V) ;
+REMOVE (ben) IF (NOT -1 V) ;
+REMOVE (agr o1 pl neg) IF (1 Subj) ; 
+REMOVE (ben) IF (1 Pron) ;
+REMOVE (agt) IF (-1 Dem) ;
+REMOVE (det dem) IF (-1 N) ;
+REMOVE Cl IF (-1 V) ;
+REMOVE (aff) IF (1 (qp)) ; 
+REMOVE (det def) IF (-1 (qst)) ;
+
+## Safe heuristic rules
+SELECT (emph) IF (-1 V OR Adj) ;
+SELECT (loc post) IF (-1 N) ; 
+SELECT (loc post) IF (-1 (nrel)) ; 
+SELECT (qp) IF (-0C* (qst) OR (qst) BARRIER
+(*) - N - Dem);
+SELECT Irr IF (-1 V) ;
+SELECT Foc IF (-1 Nmlz) ;
+SELECT Foc IF (-1 Prop) ;
+SELECT Top IF (-1 Nmlz) ; 
+SELECT (cvb) IF (-1 V) ;
+SELECT Top IF (-1 Prop) ; 
+SELECT Foc IF (1 Dem) ; 
+SELECT Nmlz IF (1 N) ;
+REMOVE (sup) IF (-1 Subj) ;
+REMOVE (aff) IF (1 (foc)) ;
+REMOVE V IF (1 (loc post)) ;  
+REMOVE (neg) IF (NOT -1 V) ; 
+REMOVE (irr) IF (NOT 1 V) ;
+REMOVE (det dem) IF (-1 Nmlz) ;
+REMOVE (qnt) IF (NOT 1 V) ;
+REMOVE N IF (-1 (comp)) ;
+
+## Heuristic rules
+SELECT V IF (1 (irr)) ;
+SELECT Nmlz IF (1 N) ;
+SELECT N IF (1 (nrel)) ;
+SELECT Nmlz IF (-2 N) ;
+SELECT (agr) + Subj IF (1 Adj) ;
+SELECT (adj) IF (1 Nmlz) ; 
+SELECT N IF (1 (loc post)) ; 
+SELECT (agr p3 sg) IF (1 N) ;
+SELECT (agr p3 pl) IF (1 Nmlz) ;
+SELECT (agr p3 pl) IF (1 (dei ven)) ; 
+REMOVE (nrel) IF (-2 N) ;
+REMOVE (agr neg) IF (NOT -1 (neg)) ;
+REMOVE (adv) IF (-1 Adj) ; 
+REMOVE (emph) IF (1 Pron) ; 
+REMOVE (foc) IF (-1 Comp) ;
+REMOVE Obj IF (-1 Comp) ; 
+REMOVE (agr) + Obj IF (-1 N) ;
+REMOVE Adv IF (-1 Subj) ; 
+REMOVE Cl IF (NOT 1 N) ; 
+REMOVE V IF (-1 Dem) ;
+REMOVE (ben) IF (1 Dem) ; 
+REMOVE (dei and) IF (NOT 1 V) ; 
+REMOVE (agr) + Obj IF (-1 V) ;
+SELECT Adj IF (-1 N) ;
+REMOVE Adv IF (1 Pron) ;
+REMOVE (aff) IF (1 Nmlz) ;
+REMOVE N IF (1 Nmlz) ; 
+REMOVE (nrel) IF (1 (emph)) ;
+
+## Discarded rules 
+#SELECT (agr) + Subj IF (1 V) ;
+#SELECT N IF (1 (loc post)) ;
+#SELECT (qp) IF (-1* (qst)) ; 
+#SELECT Pron IF (1 V) ; 
+#SELECT Foc IF (-1 N) ;  
+#SELECT N IF (1 Pron) ;
+#SELECT V IF (1 (loc post)) ;
+#SELECT (agr p2 sg) IF (1 (agr p3 sg)) ;  
+#SELECT (loc post) IF (-1 Prop) ; 
+#REMOVE (n) OR (v) IF (1 (n s)) ;
+#REMOVE (qst) IF (1 (n)) ;
+#REMOVE (agr) + Subj IF (1C (agr) + Subj) ;
+#REMOVE (agr) + Obj IF (-1C Subj) ;
+#REMOVE (qp) IF (1C N) ; 
+#REMOVE Pron IF (1 N) ; 
+#REMOVE N IF (1 Sent) ; 
+#REMOVE Nmlz IF (NOT -1 V) ; 
+#REMOVE Pron IF (1 Subj) ;
+#REMOVE V IF (NOT -1 Pron) ;
+#REMOVE (adv) IF (1 Dem) ;
+#REMOVE Foc IF (1 Subj) ; 
+#REMOVE Foc IF (NOT -1 N OR Nmlz OR Prop) ;
+
+
+# If there is a conjunction followed by a certain cohort of the same CASE as me, choose me.
+# SELECT $$Case IF (1 (cnjcoo) LINK 1C $$Case) ;
+
+# Resources:
+# http://visl.sdu.dk/cg3.html
+# http://groups.google.com/group/constraint-grammar
+# http://kevindonnelly.org.uk/2010/05/constraint-grammar-tutorial/
+# https://wiki.apertium.org/wiki/Constraint_Grammar
+# https://wiki.apertium.org/wiki/Apertium_and_Constraint_Grammar
+
+
