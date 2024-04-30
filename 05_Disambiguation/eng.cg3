@@ -1,0 +1,117 @@
+DELIMITERS = "." ;
+
+LIST Prop = np ;
+LIST Adj = adj ;
+LIST Unlike = "unlike" ;
+LIST Cnjadv = cnjadv ; 
+LIST Cm = cm ; 
+LIST Sent = sent ;
+LIST Pr = pr ; 
+LIST N = n ;
+LIST V = vblex ; 
+LIST Ger = ger ; 
+LIST Pp = pp ; # Past participle
+LIST Vbser = vbser ;
+LIST Have = "have" OR "had" ; 
+SET Aux = Vbser | Have ; 
+LIST Adv = adv ; 
+LIST Np = np ; 
+LIST Det = det ; 
+LIST Lpar = lpar ; 
+SET Punct = Cm | Sent | Lpar ; 
+LIST Itg = itg ;
+LIST Qmark = qmark ; 
+LIST P1 = p1 ; 
+LIST 1sgp = "I" ; # First singular subject pronoun
+LIST Prn = prn ; 
+
+
+SECTION
+
+# Remove the adjective reading of "unlike" if it is 
+# followed by a proper noun
+REMOVE Adj IF (0 Unlike) (1 Prop) ; 
+  # ... unlike Livy ... 
+
+## Disambiguation of "<for>" 
+# Remove a subordinating conjunction if it doesn't 
+# occur after a comma or a period.
+# ex. For me to do this is acceptable.
+# ex. I went to the library, for I needed to return a book. 
+REMOVE Cnjadv IF (NOT -1 Cm OR Sent) ; 
+
+## Disambiguation of "<for>" and "<by>"
+# Select the prepostion readign if the preceding word is 
+# a noun, a verb, or a gerund
+# ex. The couple was hoping for a baby boy. 
+SELECT Pr IF (-1 N OR V OR Ger) ;
+
+## Disambiguation of "<contradicted>"
+# Select the past participle reading if the preceding word 
+# is an adv and finds an auxiliary like 'be' or 'have'. 
+# ex. She was usually contradicted. 
+SELECT Pp IF (-1* Aux BARRIER (*) - Adv) ;
+# Select the past participle reading if any of the preceding
+# words is an auxiliary
+# ex. She was on a regular basis contradicted.
+SELECT Pp IF (-1* Aux) ; 
+REMOVE Pp IF (NOT -1 Aux) ; 
+
+## Disambiguation of "<by>"
+# Remove the adverb reading if the following word is a noun, 
+# proper noun, or a determiner. 
+# ex. She walked by the park.
+REMOVE Adv IF (1 N OR Np OR Det) ; 
+
+## Disambiguation of "<writing>"
+# Select the noun reading after punctuation (i.e, comma, 
+# period, and left parenthesis) 
+# ex. (Writing takes a lot of practice).
+SELECT N IF (-1 Punct) ;
+# Note that in the previous example 'writing is a gerund', 
+# so I also propose the following rule. 
+SELECT N OR Ger IF (-1 Lpar) ;
+
+## Disambiguation of "<contemporary>"
+# Remove the adjective reading if the preceding word is 
+# also an adjective
+# ex. *The shirt is blue black. 
+REMOVE Adj IF (-1 Adj) ;
+
+## Disambiguation of "<who>"
+# Remove the interrogative form if there is not a following 
+# questions mark
+# ex. *The man who was talking is my friend?
+REMOVE Itg IF (NOT 1* Qmark) ; 
+# Remove the interrogative form if there is no preceding 
+# noun, this works for:
+# ex. The woman who lives next door is a doctor.
+REMOVE Itg IF (NOT -1 N) ;
+
+## Disambiguation of "<was>"
+# Remove the first person reading if there is no preceding 
+# subject pronoun "I" 
+# ex. *was working on campus.
+REMOVE P1 IF (NOT -1 1sgp ) ;
+
+## Disambiguation of "<writing>"
+# Select the gerund form of the verb if the preceding element
+# is the verb 'to be' 
+# ex. *I writing rules. 
+SELECT Ger (-1 Vbser) ; 
+
+## Disambiguation of "<some>"
+# Select the pronominal reading if there is not a noun after
+# ex. Some are missing.
+SELECT Prn IF (NOT 1 N) ;
+# ex. I’ll lend you some.
+SELECT Prn IF (1 Sent) ;
+SELECT Prn IF (1 N) ;
+
+## Disambiguation of "<later>"
+# Select the adjective (synthetic comparative) form if there 
+# is punctuation after it, or a determiner introducing an NP. 
+# ex. I will call you later.
+# ex. Later, I understood the issue. 
+# ex. They agreed to meet later this week. 
+SELECT (adj sint comp) IF (1 Punct OR Det) ;
