@@ -68,7 +68,7 @@ REMOVE Adv IF (1 N OR Np OR Det) ;
 # Select the noun reading after punctuation (i.e, comma, 
 # period, and left parenthesis) 
 # ex. (Writing takes a lot of practice).
-#SELECT N IF (-1 Punct) ;
+SELECT N IF (-1 Punct) ;
 # Note that in the previous example 'writing is a gerund', 
 # so I also propose the following rule. 
 SELECT N OR Ger IF (-1 Lpar) ;
