@@ -1,0 +1,1197 @@
+1 | ('Nama', {'"nama" p2 sg': True})
+2 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+3 | ('kama', {'"kama" p1 sg': True})
+4 | ('laa', {'"laa" comp': True})
+5 | ('na', {'"na" foc': False, '"na" agr p2 sg': True, '"na" agr o1 sg neg': False, ';\t"na" foc': True, ';\t"na" agr o1 sg 
+neg': True})
+6 | ('haatiy', {'"haatiy" adj': True})
+7 | ('vie', {'"vie" adv': False, '"vie" comp': True, '"vie" dei ven': False, ';\t"vie" adv': True, ';\t"vie" dei ven': True})
+8 | ('.', {'"." sent': True})
+9 | ('Ma', {'"ma" qp': False, '"ma" det def': True, ';\t"ma" qp': True})
+10 | ('caauv', {'"caauv" n': True})
+11 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+12 | ('calyi', {'"calyi" v': True})
+13 | ('tuv', {'"tuv" nmlz': False, '"tuv" adv': True, ';\t"tuv" nmlz': True})
+14 | ('hing', {'"hing" dem': True, '"hing" det dem': False, ';\t"hing" det dem': True})
+15 | ('kama', {'"kama" p1 sg': True})
+16 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+17 | ('i', {'"i" agr p1 sg': True})
+18 | ('cuo', {'"cuo" v': True, '"cuo" n': False, ';\t"cuo" n': True})
+19 | ('.', {'"." sent': True})
+20 | ('i', {'"i" agr p1 sg': True})
+21 | ('nung', {'"nung" n': True})
+22 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+23 | ('sabuti', {'"sabuti" n': True})
+24 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+25 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+26 | ('chang', {'"chang" v': True})
+27 | ('.', {'"." sent': True})
+28 | ('piu', {'"piu" n': True})
+29 | ('lie', {'"lie" v': False, '"lie" loc post': True, ';\t"lie" v': True})
+30 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+31 | ('haatiytie', {'"haatiytie" n': True})
+32 | ('ama', {'"ama" p3 pl': False, '"ama" agr p3 pl': True, ';\t"ama" p3 pl': True})
+33 | ('aw', {'"aw" v': True, '"aw" aff': False, ';\t"aw" aff': True})
+34 | ('.', {'"." sent': True})
+35 | ('Bawi', {'"Bawi" np': True})
+36 | ('hne', {'"hne" cnjcoo': True})
+37 | ('Zai', {'"Zai" np': True})
+38 | ('ta', {'"ta" v': False, '"ta" inst': False, '"ta" agt': True, ';\t"ta" v': True, ';\t"ta" inst': True})
+39 | ('bi', {'"bi" n': True})
+40 | ('malie', {'"malie" agr o1 pl': True, '"malie" agr o1 pl neg': False, ';\t"malie" agr o1 pl neg': True})
+41 | ('ama', {'"ama" p3 pl': False, '"ama" agr p3 pl': True, ';\t"ama" p3 pl': True})
+42 | ('chang', {'"chang" v': True})
+43 | ('pa', {'"pa" cl': False, '"pa" nmlz': False, '"pa" ben': True, ';\t"pa" nmlz': True})
+44 | ('.', {'"." sent': True})
+45 | ('Sui', {'"Sui" np': True})
+46 | ('ta', {'"ta" v': False, '"ta" inst': False, '"ta" agt': True, ';\t"ta" v': True, ';\t"ta" inst': True})
+47 | ('Bawi', {'"Bawi" np': True})
+48 | ('hne', {'"hne" cnjcoo': True})
+49 | ('Zai', {'"Zai" np': True})
+50 | ('ahe', {'"ahe" n': True})
+51 | ('ama', {'"ama" p3 pl': False, '"ama" agr p3 pl': True, ';\t"ama" p3 pl': True})
+52 | ('ce', {'"ce" v': True, '"ce" adv': False, '"ce" sup': False, ';\t"ce" adv': True, ';\t"ce" sup': True})
+53 | ('pa', {'"pa" cl': False, '"pa" nmlz': True, '"pa" ben': False, ';\t"pa" ben': True})
+54 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+55 | ('hmung', {'"hmung" v': True})
+56 | ('.', {'"." sent': True})
+57 | ('haatiytie', {'"haatiytie" n': True})
+58 | ('ta', {'"ta" v': False, '"ta" inst': False, '"ta" agt': True, ';\t"ta" v': True, ';\t"ta" inst': True})
+59 | ('caauv', {'"caauv" n': True})
+60 | ('kha', {'"kha" dem': True})
+61 | ('apacuvtuv', {'"apacuvtuv" n': True})
+62 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+63 | ('ama', {'"ama" p3 pl': False, '"ama" agr p3 pl': True, ';\t"ama" p3 pl': True})
+64 | ('pi', {'"pi" v': True})
+65 | ('aa', {'"aa" n': False, '"aa" irr': True, ';\t"aa" n': True})
+66 | ('.', {'"." sent': True})
+67 | ('capaapaa', {'"capaapaa" n': True})
+68 | ('ta', {'"ta" v': False, '"ta" inst': False, '"ta" agt': True, ';\t"ta" v': True, ';\t"ta" inst': True})
+69 | ('haatiyta', {'"haatiyta" n': True})
+70 | ('kha', {'"kha" dem': True})
+71 | ('bawlung', {'"bawlung" n': True})
+72 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+73 | ('thaw', {'"thaw" v': True})
+74 | ('.', {'"." sent': True})
+75 | ('canungnung', {'"canungnung" n': True})
+76 | ('ta', {'"ta" v': False, '"ta" inst': False, '"ta" agt': True, ';\t"ta" v': True, ';\t"ta" inst': True})
+77 | ('muomuo', {'"muomuo" n': True})
+78 | ('kha', {'"kha" dem': True})
+79 | ('apacuvtuv', {'"apacuvtuv" n': True})
+80 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+81 | ('pi', {'"pi" v': True})
+82 | ('.', {'"." sent': True})
+83 | ('capaapaa', {'"capaapaa" n': True})
+84 | ('ta', {'"ta" v': False, '"ta" inst': False, '"ta" agt': True, ';\t"ta" v': True, ';\t"ta" inst': True})
+85 | ('canungnung', {'"canungnung" n': True})
+86 | ('kha', {'"kha" dem': True})
+87 | ('aruo', {'"aruo" n': True})
+88 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+89 | ('zaa', {'"zaa" v': True, '"a" mid': False, ';\t"a" mid': True})
+90 | ('.', {'"." sent': True})
+91 | ('uv', {'"uv" n': True})
+92 | ('ta', {'"ta" v': False, '"ta" inst': False, '"ta" agt': True, ';\t"ta" v': True, ';\t"ta" inst': True})
+93 | ('ziekuo', {'"ziekuo" n': True})
+94 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+95 | ('cade', {'"cade" v': True})
+96 | ('.', {'"." sent': True})
+97 | ('ma', {'"ma" qp': False, '"ma" det def': True, ';\t"ma" qp': True})
+98 | ('ziekuo', {'"ziekuo" n': True})
+99 | ('hing', {'"hing" dem': True, '"hing" det dem': False, ';\t"hing" det dem': True})
+100 | ('uv', {'"uv" n': True})
+101 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+102 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+103 | ('cade', {'"cade" v': True})
+104 | ('.', {'"." sent': True})
+105 | ('ma', {'"ma" qp': False, '"ma" det def': True, ';\t"ma" qp': True})
+106 | ('phietla', {'"phietla" n': True})
+107 | ('hing', {'"hing" dem': True, '"hing" det dem': False, ';\t"hing" det dem': True})
+108 | ('ta', {'"ta" v': False, '"ta" inst': True, '"ta" agt': False, ';\t"ta" v': True, ';\t"ta" agt': True})
+109 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+110 | ('muomuo', {'"muomuo" n': True})
+111 | ('i', {'"i" agr p1 sg': True})
+112 | ('baa', {'"baa" v': True})
+113 | ('.', {'"." sent': True})
+114 | ('ing', {'"ing" n': True})
+115 | ('lie', {'"lie" v': False, '"lie" loc post': True, ';\t"lie" v': True})
+116 | ('na', {'"na" foc': False, '"na" agr p2 sg': True, '"na" agr o1 sg neg': False, ';\t"na" foc': True, ';\t"na" agr o1 sg 
+neg': True})
+117 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+118 | ('aw', {'"aw" v': True, '"aw" aff': False, ';\t"aw" aff': True})
+119 | ('ma', {'"ma" qp': True, '"ma" det def': False, ';\t"ma" det def': True})
+120 | ('.', {'"." sent': True})
+121 | ('ma', {'"ma" qp': False, '"ma" det def': True, ';\t"ma" qp': True})
+122 | ('ahe', {'"ahe" n': True})
+123 | ('thyihning', {'"hning" num': True})
+124 | ('hue', {'"hue" dem': True})
+125 | ('ama', {'"ama" p3 pl': False, '"ama" agr p3 pl': True, ';\t"ama" p3 pl': True})
+126 | ('thlung', {'"thlung" adj': True})
+127 | ('sa', {'"sa" n': False, '"sa" adv': False, '"sa" emph': True, ';\t"sa" n': True, ';\t"sa" adv': True})
+128 | ('.', {'"." sent': True})
+129 | ('caauv', {'"caauv" n': True})
+130 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+131 | ('cabya', {'"cabya" n': True})
+132 | ('hnangkaa', {'"hnangkaa" nrel': True})
+133 | ('lie', {'"lie" v': False, '"lie" loc post': True, ';\t"lie" v': True})
+134 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+135 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+136 | ('aw', {'"aw" v': True, '"aw" aff': False, ';\t"aw" aff': True})
+137 | ('.', {'"." sent': True})
+138 | ('capaapaa', {'"capaapaa" n': True})
+139 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+140 | ('ing', {'"ing" n': True})
+141 | ('hne', {'"hne" cnjcoo': True})
+142 | ('bienaing', {'"bienaing" n': True})
+143 | ('alalalie', {'"alalalie" nrel': True})
+144 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+145 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+146 | ('aw', {'"aw" v': True, '"aw" aff': False, ';\t"aw" aff': True})
+147 | ('.', {'"." sent': True})
+148 | ('uv', {'"uv" n': True})
+149 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+150 | ('caava', {'"caava" n': True})
+151 | ('athaa', {'"athaa" nrel': True})
+152 | ('luo', {'"luo" v': False, '"luo" loc post': True, ';\t"luo" v': True})
+153 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+154 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+155 | ('ruo', {'"ruo" v': True, '"ruo" n': False, ';\t"ruo" n': True})
+156 | ('.', {'"." sent': True})
+157 | ('capaapaa', {'"capaapaa" n': True})
+158 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+159 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+160 | ('raw', {'"raw" nrel': True})
+161 | ('luo', {'"luo" v': False, '"luo" loc post': True, ';\t"luo" v': True})
+162 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+163 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+164 | ('mang', {'"mang" v': True})
+165 | ('.', {'"." sent': True})
+166 | ('avuochaning', {'"avuochaning" adv': True})
+167 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+168 | ('sapaw', {'"sapaw" n': True})
+169 | ('i', {'"i" agr p1 sg': True})
+170 | ('ning', {'"ning" v': True, '"ning" n': False, ';\t"ning" n': True})
+171 | ('.', {'"." sent': True})
+172 | ('sapaw', {'"sapaw" n': True})
+173 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+174 | ('i', {'"i" agr p1 sg': True})
+175 | ('ning', {'"ning" v': True, '"ning" n': False, ';\t"ning" n': True})
+176 | ('aa', {'"aa" n': False, '"aa" irr': True, ';\t"aa" n': True})
+177 | ('.', {'"." sent': True})
+178 | ('caauv', {'"caauv" n': True})
+179 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+180 | ('i', {'"i" agr p1 sg': True})
+181 | ('ri', {'"ri" v': True})
+182 | ('taw', {'"taw" v': False, '"taw" n': False, '"taw" pst hab asp': True, ';\t"taw" v': True, ';\t"taw" n': True})
+183 | ('.', {'"." sent': True})
+184 | ('haatiyta', {'"haatiyta" n': True})
+185 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+186 | ('ahe', {'"ahe" n': True})
+187 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+188 | ('ce', {'"ce" v': True, '"ce" adv': False, '"ce" sup': False, ';\t"ce" adv': True, ';\t"ce" sup': True})
+189 | ('.', {'"." sent': True})
+190 | ('Ahung', {'"ahung" qst': True})
+191 | ('kha', {'"kha" dem': True})
+192 | ('ma', {'"ma" qp': True, '"ma" det def': False})
+193 | ('na', {'"na" foc': False, '"na" agr p2 sg': True, '"na" agr o1 sg neg': False})
+194 | ('hmung', {'"hmung" v': True})
+195 | ('.', {'"." sent': True})
+196 | ('uv', {'"uv" n': True})
+197 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+198 | ('ing', {'"ing" n': True})
+199 | ('lie', {'"lie" v': False, '"lie" loc post': True, ';\t"lie" v': True})
+200 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+201 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+202 | ('aw', {'"aw" v': True, '"aw" aff': False, ';\t"aw" aff': True})
+203 | ('.', {'"." sent': True})
+204 | ('Zai', {'"Zai" np': True})
+205 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+206 | ('Indianapolis', {'"Indianapolis" np': True})
+207 | ('luo', {'"luo" v': True, '"luo" loc post': False, ';\t"luo" loc post': True})
+208 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+209 | ('kha', {'"kha" dem': True})
+210 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+211 | ('maw', {'"maw" v': True, '"maw" n': False, ';\t"maw" n': True})
+212 | ('aa', {'"aa" n': False, '"aa" irr': True, ';\t"aa" n': True})
+213 | ('.', {'"." sent': True})
+214 | ('capaapaa', {'"capaapaa" n': True})
+215 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+216 | ('ahe', {'"ahe" n': True})
+217 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+218 | ('ce', {'"ce" v': True, '"ce" adv': False, '"ce" sup': False, ';\t"ce" adv': True, ';\t"ce" sup': True})
+219 | ('.', {'"." sent': True})
+220 | ('caauv', {'"caauv" n': True})
+221 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+222 | ('ca', {'"ca" top': False, '"ca" agr o2 sg': True, '"ca" agr o2 sg neg': False, ';\t"ca" top': True, ';\t"ca" agr o2 sg 
+neg': True})
+223 | ('pi', {'"pi" v': True})
+224 | ('.', {'"." sent': True})
+225 | ('khaapa', {'"khaapa" qst': True})
+226 | ('ma', {'"ma" qp': True, '"ma" det def': False, ';\t"ma" det def': True})
+227 | ('Bawi', {'"Bawi" np': True})
+228 | ('ta', {'"ta" v': False, '"ta" inst': False, '"ta" agt': True, ';\t"ta" v': True, ';\t"ta" inst': True})
+229 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+230 | ('ce', {'"ce" v': True, '"ce" adv': False, '"ce" sup': False, ';\t"ce" adv': True, ';\t"ce" sup': True})
+231 | ('.', {'"." sent': True})
+232 | ('Bienaing', {'"bienaing" n': False})
+233 | ('lie', {'"lie" v': False, '"lie" loc post': False})
+234 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': False})
+235 | ('aw', {'"aw" v': False, '"aw" aff': False})
+236 | ('pa', {'"pa" cl': False, '"pa" nmlz': False, '"pa" ben': False})
+237 | ('haatiytie', {'"haatiytie" n': False})
+238 | ('kha', {'"kha" dem': False})
+239 | ('i', {'"i" agr p1 sg': False})
+240 | ('hmung', {'"hmung" v': False})
+241 | ('.', {'"." sent': False})
+242 | ('khaalie', {'"khaalie" qst': True})
+243 | ('ma', {'"ma" qp': True, '"ma" det def': False, ';\t"ma" det def': True})
+244 | ('Zai', {'"Zai" np': True})
+245 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+246 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+247 | ('aw', {'"aw" v': True, '"aw" aff': False, ';\t"aw" aff': True})
+248 | ('.', {'"." sent': True})
+249 | ('Cawsaapaa', {'"cawsaapaa" n': True})
+250 | ('ta', {'"ta" v': False, '"ta" inst': False, '"ta" agt': True, ';\t"ta" v': True, ';\t"ta" inst': True})
+251 | ('saa', {'"saa" n': True})
+252 | ('kha', {'"kha" dem': True})
+253 | ('avuochaning', {'"avuochaning" adv': True})
+254 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+255 | ('ce', {'"ce" v': True, '"ce" adv': False, '"ce" sup': False, ';\t"ce" adv': True, ';\t"ce" sup': True})
+256 | ('.', {'"." sent': True})
+257 | ('khaaning', {'"khaaning" qst': True})
+258 | ('ma', {'"ma" qp': True, '"ma" det def': False, ';\t"ma" det def': True})
+259 | ('Bawi', {'"Bawi" np': True})
+260 | ('hne', {'"hne" cnjcoo': True})
+261 | ('Zai', {'"Zai" np': True})
+262 | ('ta', {'"ta" v': False, '"ta" inst': False, '"ta" agt': True, ';\t"ta" v': True, ';\t"ta" inst': True})
+263 | ('saa', {'"saa" n': True})
+264 | ('ama', {'"ama" p3 pl': False, '"ama" agr p3 pl': True, ';\t"ama" p3 pl': True})
+265 | ('ce', {'"ce" v': True, '"ce" adv': False, '"ce" sup': False, ';\t"ce" adv': True, ';\t"ce" sup': True})
+266 | ('.', {'"." sent': True})
+267 | ('canungnung', {'"canungnung" n': True})
+268 | ('ima', {'"ima" agr p1 pl': False, ';\t"ima" agr p1 pl': True})
+269 | ('hmung', {'"hmung" v': True})
+270 | ('pa', {'"pa" cl': False, '"pa" nmlz': True, '"pa" ben': False, ';\t"pa" cl': True, ';\t"pa" ben': True})
+271 | ('kha', {'"kha" dem': True})
+272 | ('i', {'"i" agr p1 sg': True})
+273 | ('viesaa', {'"viesaa" n': True})
+274 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+275 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+276 | ('cuo', {'"cuo" v': True, '"cuo" n': False, ';\t"cuo" n': True})
+277 | ('.', {'"." sent': True})
+278 | ('caauv', {'"caauv" n': True})
+279 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+280 | ('apacuvtuv', {'"apacuvtuv" n': True})
+281 | ('i', {'"i" agr p1 sg': True})
+282 | ('pi', {'"pi" v': True})
+283 | ('.', {'"." sent': True})
+284 | ('ahung', {'"ahung" qst': True})
+285 | ('ma', {'"ma" qp': True, '"ma" det def': False, ';\t"ma" det def': True})
+286 | ('Zai', {'"Zai" np': True})
+287 | ('kha', {'"kha" dem': True})
+288 | ('caauv', {'"caauv" n': True})
+289 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+290 | ('pi', {'"pi" v': True})
+291 | ('.', {'"." sent': True})
+292 | ('khaapa', {'"khaapa" qst': True})
+293 | ('uv', {'"uv" n': True})
+294 | ('kha', {'"kha" dem': True})
+295 | ('ma', {'"ma" qp': True, '"ma" det def': False, ';\t"ma" det def': True})
+296 | ('na', {'"na" foc': False, '"na" agr p2 sg': True, '"na" agr o1 sg neg': False, ';\t"na" foc': True, ';\t"na" agr o1 sg 
+neg': True})
+297 | ('vaw', {'"vaw" v': True, '"vaw" adj': False, ';\t"vaw" adj': True})
+298 | ('.', {'"." sent': True})
+299 | ('Ahung', {'"ahung" qst': True})
+300 | ('kha', {'"kha" dem': True})
+301 | ('ma', {'"ma" qp': True, '"ma" det def': False, ';\t"ma" det def': True})
+302 | ('na', {'"na" foc': False, '"na" agr p2 sg': True, '"na" agr o1 sg neg': False, ';\t"na" foc': True, ';\t"na" agr o1 sg 
+neg': True})
+303 | ('hmung', {'"hmung" v': True})
+304 | ('.', {'"." sent': True})
+305 | ('va', {'"va" n': True, '"va" neg': False, '"va" dei and': False, ';\t"va" neg': True, ';\t"va" dei and': True})
+306 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+307 | ('paruv', {'"paruv" v': True})
+308 | ('pa', {'"pa" cl': False, '"pa" nmlz': True, '"pa" ben': False, ';\t"pa" cl': True, ';\t"pa" ben': True})
+309 | ('paa', {'"paa" n': True})
+310 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+311 | ('ahung', {'"ahung" qst': True})
+312 | ('ma', {'"ma" qp': True, '"ma" det def': False, ';\t"ma" det def': True})
+313 | ('.', {'"." sent': True})
+314 | ('canungnung', {'"canungnung" n': True})
+315 | ('ima', {'"ima" agr p1 pl': False, ';\t"ima" agr p1 pl': True})
+316 | ('hmung', {'"hmung" v': True})
+317 | ('pa', {'"pa" cl': False, '"pa" nmlz': True, '"pa" ben': False, ';\t"pa" cl': True, ';\t"pa" ben': True})
+318 | ('kha', {'"kha" dem': True})
+319 | ('na', {'"na" foc': False, '"na" agr p2 sg': True, '"na" agr o1 sg neg': False, ';\t"na" foc': True, ';\t"na" agr o1 sg 
+neg': True})
+320 | ('viesaa', {'"viesaa" n': True})
+321 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+322 | ('cuo', {'"cuo" v': True, '"cuo" n': False, ';\t"cuo" n': True})
+323 | ('ma', {'"ma" qp': True, '"ma" det def': False, ';\t"ma" det def': True})
+324 | ('.', {'"." sent': True})
+325 | ('phungpa', {'"phungpa" n': True})
+326 | ('na', {'"na" foc': False, '"na" agr p2 sg': True, '"na" agr o1 sg neg': False, ';\t"na" foc': True, ';\t"na" agr o1 sg 
+neg': True})
+327 | ('i', {'"i" agr p1 sg': True})
+328 | ('ca', {'"ca" top': False, '"ca" agr o2 sg': True, '"ca" agr o2 sg neg': False, ';\t"ca" top': True, ';\t"ca" agr o2 sg 
+neg': True})
+329 | ('cang', {'"cang" v': True})
+330 | ('.', {'"." sent': True})
+331 | ('Bienaing', {'"bienaing" n': True})
+332 | ('lie', {'"lie" v': False, '"lie" loc post': True, ';\t"lie" v': True})
+333 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+334 | ('aw', {'"aw" v': True, '"aw" aff': False, ';\t"aw" aff': True})
+335 | ('pa', {'"pa" cl': False, '"pa" nmlz': True, '"pa" ben': False, ';\t"pa" cl': True, ';\t"pa" ben': True})
+336 | ('haatiytie', {'"haatiytie" n': True})
+337 | ('kha', {'"kha" dem': True})
+338 | ('na', {'"na" foc': False, '"na" agr p2 sg': True, '"na" agr o1 sg neg': False, ';\t"na" foc': True, ';\t"na" agr o1 sg 
+neg': True})
+339 | ('hmung', {'"hmung" v': True})
+340 | ('yi', {'"yi" agr p3 pl': False, '"yi" agr o2 pl': False, '"yi" agr o3 pl': False, '"yi" agr o2 pl neg': False, '"yi" agr 
+o3 pl neg': False, ';\t"yi" agr p3 pl': True, ';\t"yi" agr o2 pl': True, ';\t"yi" agr o3 pl': True, ';\t"yi" agr o2 pl neg': 
+True, ';\t"yi" agr o3 pl neg': True})
+341 | ('ma', {'"ma" qp': True, '"ma" det def': False, ';\t"ma" det def': True})
+342 | ('.', {'"." sent': True})
+343 | ('ahe', {'"ahe" n': True})
+344 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+345 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+346 | ('thlung', {'"thlung" adj': True})
+347 | ('ma', {'"ma" qp': True, '"ma" det def': False, ';\t"ma" det def': True})
+348 | ('.', {'"." sent': True})
+349 | ('buohla', {'"buohla" n': True})
+350 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+351 | ('ning', {'"ning" v': True, '"ning" n': False, ';\t"ning" n': True})
+352 | ('aa', {'"aa" n': False, '"aa" irr': True, ';\t"aa" n': True})
+353 | ('ma', {'"ma" qp': True, '"ma" det def': False, ';\t"ma" det def': True})
+354 | ('.', {'"." sent': True})
+355 | ('Zai', {'"Zai" np': True})
+356 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+357 | ('Bawi', {'"Bawi" np': True})
+358 | ('ta', {'"ta" v': False, '"ta" inst': False, '"ta" agt': True, ';\t"ta" v': True, ';\t"ta" inst': True})
+359 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+360 | ('ning', {'"ning" v': True, '"ning" n': False, ';\t"ning" n': True})
+361 | ('pa', {'"pa" cl': False, '"pa" nmlz': True, '"pa" ben': False, ';\t"pa" cl': True, ';\t"pa" ben': True})
+362 | ('ahe', {'"ahe" n': True})
+363 | ('kha', {'"kha" dem': True})
+364 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+365 | ('calyi', {'"calyi" v': True})
+366 | ('ma', {'"ma" qp': True, '"ma" det def': False, ';\t"ma" det def': True})
+367 | ('.', {'"." sent': True})
+368 | ('Khaapa', {'"khaapa" qst': True})
+369 | ('kha', {'"kha" dem': True})
+370 | ('ma', {'"ma" qp': True, '"ma" det def': False, ';\t"ma" det def': True})
+371 | ('na', {'"na" foc': False, '"na" agr p2 sg': True, '"na" agr o1 sg neg': False, ';\t"na" foc': True, ';\t"na" agr o1 sg 
+neg': True})
+372 | ('sawbya', {'"sawbya" n': True})
+373 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+374 | ('cuo', {'"cuo" v': True, '"cuo" n': False, ';\t"cuo" n': True})
+375 | ('.', {'"." sent': True})
+376 | ('cawsaapaa', {'"cawsaapaa" n': True})
+377 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+378 | ('saruopa', {'"saruopa" n': True})
+379 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+380 | ('lee', {'"lee" adj': True, '"lee" nrel': False, ';\t"lee" nrel': True})
+381 | ('pa', {'"pa" cl': False, '"pa" nmlz': True, '"pa" ben': False, ';\t"pa" cl': True, ';\t"pa" ben': True})
+382 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+383 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+384 | ('cade', {'"cade" v': True})
+385 | ('.', {'"." sent': True})
+386 | ('Zai', {'"Zai" np': True})
+387 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+388 | ('cuesaa', {'"cuesaa" n': True})
+389 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+390 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+391 | ('chung', {'"chung" v': True, '"chung" nrel': False, ';\t"chung" nrel': True})
+392 | ('.', {'"." sent': True})
+393 | ('capaapaa', {'"capaapaa" n': True})
+394 | ('ta', {'"ta" v': False, '"ta" inst': False, '"ta" agt': True, ';\t"ta" v': True, ';\t"ta" inst': True})
+395 | ('va', {'"va" n': True, '"va" neg': False, '"va" dei and': False, ';\t"va" neg': True, ';\t"va" dei and': True})
+396 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+397 | ('paruv', {'"paruv" v': True})
+398 | ('.', {'"." sent': True})
+399 | ('haatiynung', {'"haatiynung" n': True})
+400 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+401 | ('aa', {'"aa" n': True, '"aa" irr': False, ';\t"aa" irr': True})
+402 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+403 | ('thie', {'"thie" v': True})
+404 | ('.', {'"." sent': True})
+405 | ('haatiynung', {'"haatiynung" n': True})
+406 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+407 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+408 | ('ruo', {'"ruo" v': True, '"ruo" n': False, ';\t"ruo" n': True})
+409 | ('te', {'"te" v': False, '"te" fut': False, '"te" cvb': True, ';\t"te" v': True, ';\t"te" fut': True})
+410 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+411 | ('cakuo', {'"cakuo" v': True})
+412 | ('.', {'"." sent': True})
+413 | ('aruo', {'"aruo" n': True})
+414 | ('vaw', {'"vaw" v': False, '"vaw" adj': True, ';\t"vaw" v': True})
+415 | ('pa', {'"pa" cl': False, '"pa" nmlz': True, '"pa" ben': False, ';\t"pa" cl': True, ';\t"pa" ben': True})
+416 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+417 | ('haatiynung', {'"haatiynung" n': True})
+418 | ('ta', {'"ta" v': False, '"ta" inst': False, '"ta" agt': True, ';\t"ta" v': True, ';\t"ta" inst': True})
+419 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+420 | ('ciy', {'"ciy" v': True, '"ciy" n': False, '"ciy" agr p2 sg': False, ';\t"ciy" n': True, ';\t"ciy" agr p2 sg': True})
+421 | ('.', {'"." sent': True})
+422 | ('ziekuo', {'"ziekuo" n': True})
+423 | ('lee', {'"lee" adj': True, '"lee" nrel': False, ';\t"lee" nrel': True})
+424 | ('pa', {'"pa" cl': False, '"pa" nmlz': True, '"pa" ben': False, ';\t"pa" cl': True, ';\t"pa" ben': True})
+425 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+426 | ('pazuv', {'"pazuv" n': True})
+427 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+428 | ('thie', {'"thie" v': True})
+429 | ('.', {'"." sent': True})
+430 | ('luathlutuv', {'"luathlutuv" n': True})
+431 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+432 | ('ahe', {'"ahe" n': True})
+433 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+434 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+435 | ('ling', {'"ling" v': True})
+436 | ('.', {'"." sent': True})
+437 | ('na', {'"na" foc': False, '"na" agr p2 sg': True, '"na" agr o1 sg neg': False, ';\t"na" foc': True, ';\t"na" agr o1 sg 
+neg': True})
+438 | ('cungle', {'"cungle" n': True})
+439 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+440 | ('i', {'"i" agr p1 sg': True})
+441 | ('cungle', {'"cungle" n': True})
+442 | ('laa', {'"laa" comp': True})
+443 | ('alung', {'"alung" n': False, '"alung" adj': True, ';\t"alung" n': True})
+444 | ('vie', {'"vie" adv': False, '"vie" comp': True, '"vie" dei ven': False, ';\t"vie" adv': True, ';\t"vie" dei ven': True})
+445 | ('.', {'"." sent': True})
+446 | ('Bawi', {'"Bawi" np': True})
+447 | ('hne', {'"hne" cnjcoo': True})
+448 | ('kama', {'"kama" p1 sg': True})
+449 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+450 | ('ahe', {'"ahe" n': True})
+451 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+452 | ('ima', {'"ima" agr p1 pl': True})
+453 | ('calyi', {'"calyi" v': True})
+454 | ('.', {'"." sent': True})
+455 | ('nama', {'"nama" p2 sg': True})
+456 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+457 | ('alung', {'"alung" n': True, '"alung" adj': False, ';\t"alung" adj': True})
+458 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+459 | ('suv', {'"suv" v': True})
+460 | ('.', {'"." sent': True})
+461 | ('luathlutuv', {'"luathlutuv" n': True})
+462 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+463 | ('ahe', {'"ahe" n': True})
+464 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+465 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+466 | ('ling', {'"ling" v': True})
+467 | ('.', {'"." sent': True})
+468 | ('ing', {'"ing" n': True})
+469 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+470 | ('tluo', {'"tluo" v': False, '"tluo" n': True, ';\t"tluo" v': True})
+471 | ('cung', {'"cung" nrel': True})
+472 | ('lie', {'"lie" v': False, '"lie" loc post': True, ';\t"lie" v': True})
+473 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+474 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+475 | ('aw', {'"aw" v': True, '"aw" aff': False, ';\t"aw" aff': True})
+476 | ('.', {'"." sent': True})
+477 | ('haatiynung', {'"haatiynung" n': True})
+478 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+479 | ('luopuv', {'"luopuv" n': True})
+480 | ('lie', {'"lie" v': False, '"lie" loc post': True, ';\t"lie" v': True})
+481 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+482 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+483 | ('ruo', {'"ruo" v': True, '"ruo" n': False, ';\t"ruo" n': True})
+484 | ('.', {'"." sent': True})
+485 | ('Bawi', {'"Bawi" np': True})
+486 | ('ta', {'"ta" v': False, '"ta" inst': False, '"ta" agt': True, ';\t"ta" v': True, ';\t"ta" inst': True})
+487 | ('avuochaning', {'"avuochaning" adv': True})
+488 | ('caauv', {'"caauv" n': True})
+489 | ('uvkha', {'"kha" num': True})
+490 | ('chadaw', {'"chadaw" n': True})
+491 | ('lie', {'"lie" v': False, '"lie" loc post': True, ';\t"lie" v': True})
+492 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+493 | ('calyi', {'"calyi" v': True})
+494 | ('.', {'"." sent': True})
+495 | ('ziekuo', {'"ziekuo" n': True})
+496 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+497 | ('pazuv', {'"pazuv" n': True})
+498 | ('taa', {'"taa" adj': True})
+499 | ('ta', {'"ta" v': False, '"ta" inst': False, '"ta" agt': True, ';\t"ta" v': True, ';\t"ta" inst': True})
+500 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+501 | ('thie', {'"thie" v': True})
+502 | ('.', {'"." sent': True})
+503 | ('haatiytie', {'"haatiytie" n': True})
+504 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+505 | ('ama', {'"ama" p3 pl': False, '"ama" agr p3 pl': True, ';\t"ama" p3 pl': True})
+506 | ('cang', {'"cang" v': True})
+507 | ('.', {'"." sent': True})
+508 | ('khaapa', {'"khaapa" qst': True})
+509 | ('sawbya', {'"sawbya" n': True})
+510 | ('kha', {'"kha" dem': True})
+511 | ('ma', {'"ma" qp': True, '"ma" det def': False, ';\t"ma" det def': True})
+512 | ('na', {'"na" foc': False, '"na" agr p2 sg': True, '"na" agr o1 sg neg': False, ';\t"na" foc': True, ';\t"na" agr o1 sg 
+neg': True})
+513 | ('sawbya', {'"sawbya" n': True})
+514 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+515 | ('cuo', {'"cuo" v': True, '"cuo" n': False, ';\t"cuo" n': True})
+516 | ('.', {'"." sent': True})
+517 | ('apuv', {'"apuv" n': True})
+518 | ('lie', {'"lie" v': False, '"lie" loc post': True, ';\t"lie" v': True})
+519 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+520 | ('aw', {'"aw" v': True, '"aw" aff': False, ';\t"aw" aff': True})
+521 | ('pa', {'"pa" cl': False, '"pa" nmlz': True, '"pa" ben': False, ';\t"pa" cl': True, ';\t"pa" ben': True})
+522 | ('paa', {'"paa" n': True})
+523 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+524 | ('aruo', {'"aruo" n': True})
+525 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+526 | ('tluo', {'"tluo" v': False, '"tluo" n': True, ';\t"tluo" v': True})
+527 | ('lie', {'"lie" v': False, '"lie" loc post': True, ';\t"lie" v': True})
+528 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+529 | ('hnyi', {'"hnyi" v': True})
+530 | ('.', {'"." sent': True})
+531 | ('ahe', {'"ahe" n': True})
+532 | ('na', {'"na" foc': False, '"na" agr p2 sg': True, '"na" agr o1 sg neg': False, ';\t"na" foc': True, ';\t"na" agr o1 sg 
+neg': True})
+533 | ('calyi', {'"calyi" v': True})
+534 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+535 | ('pa', {'"pa" cl': False, '"pa" nmlz': True, '"pa" ben': False, ';\t"pa" cl': True, ';\t"pa" ben': True})
+536 | ('i', {'"i" agr p1 sg': True})
+537 | ('pachang', {'"pachang" v': True})
+538 | ('.', {'"." sent': True})
+539 | ('Bawi', {'"Bawi" np': True})
+540 | ('ta', {'"ta" v': False, '"ta" inst': False, '"ta" agt': True, ';\t"ta" v': True, ';\t"ta" inst': True})
+541 | ('khaapa', {'"khaapa" qst': True})
+542 | ('ma', {'"ma" qp': True, '"ma" det def': False, ';\t"ma" det def': True})
+543 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+544 | ('calyi', {'"calyi" v': True})
+545 | ('.', {'"." sent': True})
+546 | ('luathlutuv', {'"luathlutuv" n': True})
+547 | ('ta', {'"ta" v': False, '"ta" inst': False, '"ta" agt': True, ';\t"ta" v': True, ';\t"ta" inst': True})
+548 | ('ahe', {'"ahe" n': True})
+549 | ('kung', {'"kung" n': True})
+550 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+551 | ('pu', {'"pu" v': True})
+552 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+553 | ('ta', {'"ta" v': True, '"ta" inst': False, '"ta" agt': False, ';\t"ta" inst': True, ';\t"ta" agt': True})
+554 | ('.', {'"." sent': True})
+555 | ('taataapa', {'"taataapa" n': True})
+556 | ('ta', {'"ta" v': False, '"ta" inst': False, '"ta" agt': True})
+557 | ('chuovyi', {'"chuovyi" n': True})
+558 | ('kha', {'"kha" dem': True})
+559 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True})
+560 | ('ning', {'"ning" v': False, '"ning" n': True})
+561 | ('.', {'"." sent': True})
+562 | ('pavaa', {'"pavaa" n': True})
+563 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+564 | ('zu', {'"zu" v': True})
+565 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+566 | ('ta', {'"ta" v': True, '"ta" inst': False, '"ta" agt': False, ';\t"ta" inst': True, ';\t"ta" agt': True})
+567 | ('.', {'"." sent': True})
+568 | ('i', {'"i" agr p1 sg': True})
+569 | ('aw', {'"aw" v': True, '"aw" aff': False, ';\t"aw" aff': True})
+570 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+571 | ('pa', {'"pa" cl': False, '"pa" nmlz': True, '"pa" ben': False, ';\t"pa" cl': True, ';\t"pa" ben': True})
+572 | ('ing', {'"ing" n': True})
+573 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+574 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+575 | ('vaw', {'"vaw" v': False, '"vaw" adj': True, ';\t"vaw" v': True})
+576 | ('.', {'"." sent': True})
+577 | ('caauv', {'"caauv" n': True})
+578 | ('na', {'"na" foc': False, '"na" agr p2 sg': True, '"na" agr o1 sg neg': False, ';\t"na" foc': True, ';\t"na" agr o1 sg 
+neg': True})
+579 | ('ri', {'"ri" v': True})
+580 | ('pa', {'"pa" cl': False, '"pa" nmlz': True, '"pa" ben': False, ';\t"pa" cl': True, ';\t"pa" ben': True})
+581 | ('kha', {'"kha" dem': True})
+582 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+583 | ('pha', {'"pha" v': True})
+584 | ('sa', {'"sa" n': False, '"sa" adv': False, '"sa" emph': True, ';\t"sa" n': True, ';\t"sa" adv': True})
+585 | ('pa', {'"pa" cl': False, '"pa" nmlz': True, '"pa" ben': False, ';\t"pa" cl': True, ';\t"pa" ben': True})
+586 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+587 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+588 | ('cuo', {'"cuo" v': True, '"cuo" n': False, ';\t"cuo" n': True})
+589 | ('.', {'"." sent': True})
+590 | ('Zai', {'"Zai" np': True})
+591 | ('ta', {'"ta" v': False, '"ta" inst': False, '"ta" agt': True, ';\t"ta" v': True, ';\t"ta" inst': True})
+592 | ('capaapaa', {'"capaapaa" n': True})
+593 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+594 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+595 | ('hmung', {'"hmung" v': True})
+596 | ('.', {'"." sent': True})
+597 | ('cawsaapaa', {'"cawsaapaa" n': True})
+598 | ('ta', {'"ta" v': False, '"ta" inst': False, '"ta" agt': True, ';\t"ta" v': True, ';\t"ta" inst': True})
+599 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+600 | ('cade', {'"cade" v': True})
+601 | ('pa', {'"pa" cl': False, '"pa" nmlz': True, '"pa" ben': False, ';\t"pa" cl': True, ';\t"pa" ben': True})
+602 | ('saruopa', {'"saruopa" n': True})
+603 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+604 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+605 | ('lee', {'"lee" adj': True, '"lee" nrel': False, ';\t"lee" nrel': True})
+606 | ('.', {'"." sent': True})
+607 | ('va', {'"va" n': True, '"va" neg': False, '"va" dei and': False, ';\t"va" neg': True, ';\t"va" dei and': True})
+608 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+609 | ('paruv', {'"paruv" v': True})
+610 | ('pa', {'"pa" cl': False, '"pa" nmlz': True, '"pa" ben': False, ';\t"pa" cl': True, ';\t"pa" ben': True})
+611 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+612 | ('Zai', {'"Zai" np': True})
+613 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+614 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+615 | ('cuo', {'"cuo" v': True, '"cuo" n': False, ';\t"cuo" n': True})
+616 | ('.', {'"." sent': True})
+617 | ('sa', {'"sa" n': True, '"sa" adv': False, '"sa" emph': False, ';\t"sa" adv': True, ';\t"sa" emph': True})
+618 | ('ima', {'"ima" agr p1 pl': False, ';\t"ima" agr p1 pl': True})
+619 | ('chang', {'"chang" v': True})
+620 | ('pa', {'"pa" cl': False, '"pa" nmlz': True, '"pa" ben': False, ';\t"pa" cl': True, ';\t"pa" ben': True})
+621 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+622 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+623 | ('pahuo', {'"pahuo" adj': True})
+624 | ('sa', {'"sa" n': False, '"sa" adv': False, '"sa" emph': True, ';\t"sa" n': True, ';\t"sa" adv': True})
+625 | ('.', {'"." sent': True})
+626 | ('aruo', {'"aruo" n': True})
+627 | ('ruo', {'"ruo" v': False, '"ruo" n': True, ';\t"ruo" v': True})
+628 | ('lie', {'"lie" v': False, '"lie" loc post': True, ';\t"lie" v': True})
+629 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+630 | ('ruo', {'"ruo" v': True, '"ruo" n': False, ';\t"ruo" n': True})
+631 | ('lee', {'"lee" adj': True, '"lee" nrel': False, ';\t"lee" nrel': True})
+632 | ('pa', {'"pa" cl': False, '"pa" nmlz': True, '"pa" ben': False, ';\t"pa" cl': True, ';\t"pa" ben': True})
+633 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+634 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+635 | ('thiy', {'"thiy" v': True, '"thiy" n': False, ';\t"thiy" n': True})
+636 | ('.', {'"." sent': True})
+637 | ('capaapaa', {'"capaapaa" n': True})
+638 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+639 | ('calyi', {'"calyi" v': True})
+640 | ('pa', {'"pa" cl': False, '"pa" nmlz': True, '"pa" ben': False, ';\t"pa" cl': True, ';\t"pa" ben': True})
+641 | ('aruo', {'"aruo" n': True})
+642 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+643 | ('aruo', {'"aruo" n': True})
+644 | ('pha', {'"pha" v': True})
+645 | ('pa', {'"pa" cl': False, '"pa" nmlz': True, '"pa" ben': False, ';\t"pa" cl': True, ';\t"pa" ben': True})
+646 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+647 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+648 | ('cuo', {'"cuo" v': True, '"cuo" n': False, ';\t"cuo" n': True})
+649 | ('.', {'"." sent': True})
+650 | ('ruo', {'"ruo" v': False, '"ruo" n': True, ';\t"ruo" v': True})
+651 | ('lie', {'"lie" v': False, '"lie" loc post': True, ';\t"lie" v': True})
+652 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+653 | ('aw', {'"aw" v': True, '"aw" aff': False, ';\t"aw" aff': True})
+654 | ('pa', {'"pa" cl': False, '"pa" nmlz': True, '"pa" ben': False, ';\t"pa" cl': True, ';\t"pa" ben': True})
+655 | ('aruo', {'"aruo" n': True})
+656 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+657 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+658 | ('vaw', {'"vaw" v': False, '"vaw" adj': True, ';\t"vaw" v': True})
+659 | ('.', {'"." sent': True})
+660 | ('avuochaning', {'"avuochaning" adv': True})
+661 | ('capaapaa', {'"capaapaa" n': True})
+662 | ('ta', {'"ta" v': False, '"ta" inst': False, '"ta" agt': True, ';\t"ta" v': True, ';\t"ta" inst': True})
+663 | ('aruo', {'"aruo" n': True})
+664 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+665 | ('calyi', {'"calyi" v': True})
+666 | ('pa', {'"pa" cl': False, '"pa" nmlz': True, '"pa" ben': False, ';\t"pa" cl': True, ';\t"pa" ben': True})
+667 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+668 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+669 | ('vaw', {'"vaw" v': False, '"vaw" adj': True, ';\t"vaw" v': True})
+670 | ('.', {'"." sent': True})
+671 | ('apuv', {'"apuv" n': True})
+672 | ('lie', {'"lie" v': False, '"lie" loc post': True, ';\t"lie" v': True})
+673 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+674 | ('aw', {'"aw" v': True, '"aw" aff': False, ';\t"aw" aff': True})
+675 | ('pa', {'"pa" cl': False, '"pa" nmlz': True, '"pa" ben': False, ';\t"pa" cl': True, ';\t"pa" ben': True})
+676 | ('cawsaapaa', {'"cawsaapaa" n': True})
+677 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+678 | ('aruo', {'"aruo" n': True})
+679 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+680 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+681 | ('hnyi', {'"hnyi" v': True})
+682 | ('.', {'"." sent': True})
+683 | ('ruo', {'"ruo" v': False, '"ruo" n': True, ';\t"ruo" v': True})
+684 | ('lie', {'"lie" v': False, '"lie" loc post': True, ';\t"lie" v': True})
+685 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+686 | ('ruo', {'"ruo" v': True, '"ruo" n': False, ';\t"ruo" n': True})
+687 | ('pa', {'"pa" cl': False, '"pa" nmlz': True, '"pa" ben': False, ';\t"pa" cl': True, ';\t"pa" ben': True})
+688 | ('canungnung', {'"canungnung" n': True})
+689 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+690 | ('i', {'"i" agr p1 sg': True})
+691 | ('viesaa', {'"viesaa" n': True})
+692 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+693 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+694 | ('cuo', {'"cuo" v': True, '"cuo" n': False, ';\t"cuo" n': True})
+695 | ('.', {'"." sent': True})
+696 | ('canungnung', {'"canungnung" n': True})
+697 | ('na', {'"na" foc': False, '"na" agr p2 sg': True, '"na" agr o1 sg neg': False, ';\t"na" foc': True, ';\t"na" agr o1 sg 
+neg': True})
+698 | ('hmung', {'"hmung" v': True})
+699 | ('pa', {'"pa" cl': False, '"pa" nmlz': True, '"pa" ben': False, ';\t"pa" cl': True, ';\t"pa" ben': True})
+700 | ('kha', {'"kha" dem': True})
+701 | ('i', {'"i" agr p1 sg': True})
+702 | ('tlechuo', {'"tlechuo" v': True})
+703 | ('.', {'"." sent': True})
+704 | ('capaapaa', {'"capaapaa" n': True})
+705 | ('ta', {'"ta" v': False, '"ta" inst': False, '"ta" agt': True, ';\t"ta" v': True, ';\t"ta" inst': True})
+706 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+707 | ('thaw', {'"thaw" v': True})
+708 | ('pa', {'"pa" cl': False, '"pa" nmlz': True, '"pa" ben': False, ';\t"pa" cl': True, ';\t"pa" ben': True})
+709 | ('alung', {'"alung" n': True, '"alung" adj': False, ';\t"alung" adj': True})
+710 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+711 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+712 | ('lee', {'"lee" adj': True, '"lee" nrel': False, ';\t"lee" nrel': True})
+713 | ('sa', {'"sa" n': False, '"sa" adv': False, '"sa" emph': True, ';\t"sa" n': True, ';\t"sa" adv': True})
+714 | ('.', {'"." sent': True})
+715 | ('tluo', {'"tluo" v': False, '"tluo" n': True, ';\t"tluo" v': True})
+716 | ('cung', {'"cung" nrel': True})
+717 | ('lie', {'"lie" v': False, '"lie" loc post': True, ';\t"lie" v': True})
+718 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+719 | ('aw', {'"aw" v': True, '"aw" aff': False, ';\t"aw" aff': True})
+720 | ('pa', {'"pa" cl': False, '"pa" nmlz': True, '"pa" ben': False, ';\t"pa" cl': True, ';\t"pa" ben': True})
+721 | ('ing', {'"ing" n': True})
+722 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+723 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+724 | ('puvthe', {'"puvthe" adj': True})
+725 | ('.', {'"." sent': True})
+726 | ('haatiynung', {'"haatiynung" n': True})
+727 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+728 | ('chi', {'"chi" adj': True})
+729 | ('pa', {'"pa" cl': False, '"pa" nmlz': True, '"pa" ben': False, ';\t"pa" cl': True, ';\t"pa" ben': True})
+730 | ('aruo', {'"aruo" n': True})
+731 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+732 | ('i', {'"i" agr p1 sg': True})
+733 | ('ciy', {'"ciy" v': True, '"ciy" n': False, '"ciy" agr p2 sg': False, ';\t"ciy" n': True, ';\t"ciy" agr p2 sg': True})
+734 | ('.', {'"." sent': True})
+735 | ('Zai', {'"Zai" np': True})
+736 | ('ta', {'"ta" v': False, '"ta" inst': False, '"ta" agt': True, ';\t"ta" v': True, ';\t"ta" inst': True})
+737 | ('caauv', {'"caauv" n': True})
+738 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+739 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+740 | ('calyi', {'"calyi" v': True})
+741 | ('.', {'"." sent': True})
+742 | ('haatiynung', {'"haatiynung" n': True})
+743 | ('ta', {'"ta" v': False, '"ta" inst': False, '"ta" agt': True, ';\t"ta" v': True, ';\t"ta" inst': True})
+744 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+745 | ('thie', {'"thie" v': True})
+746 | ('pa', {'"pa" cl': False, '"pa" nmlz': True, '"pa" ben': False, ';\t"pa" cl': True, ';\t"pa" ben': True})
+747 | ('aa', {'"aa" n': True, '"aa" irr': False, ';\t"aa" irr': True})
+748 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+749 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+750 | ('macuo', {'"macuo" adj': True})
+751 | ('sa', {'"sa" n': False, '"sa" adv': False, '"sa" emph': True, ';\t"sa" n': True, ';\t"sa" adv': True})
+752 | ('tli', {'"tli" adv': True})
+753 | ('.', {'"." sent': True})
+754 | ('Myi', {'"myi" n': True})
+755 | ('ta', {'"ta" v': False, '"ta" inst': False, '"ta" agt': True, ';\t"ta" v': True, ';\t"ta" inst': True})
+756 | ('ing', {'"ing" n': True})
+757 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+758 | ('para', {'"para" v': True})
+759 | ('.', {'"." sent': True})
+760 | ('malie', {'"malie" agr o1 pl': True, '"malie" agr o1 pl neg': False, ';\t"malie" agr o1 pl neg': True})
+761 | ('na', {'"na" foc': False, '"na" agr p2 sg': True, '"na" agr o1 sg neg': False, ';\t"na" foc': True, ';\t"na" agr o1 sg 
+neg': True})
+762 | ('chang', {'"chang" v': True})
+763 | ('pa', {'"pa" cl': False, '"pa" nmlz': False, '"pa" ben': True, ';\t"pa" cl': True, ';\t"pa" nmlz': True})
+764 | ('.', {'"." sent': True})
+765 | ('Uv', {'"uv" n': True})
+766 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+767 | ('ma', {'"ma" qp': False, '"ma" det def': True, ';\t"ma" qp': True})
+768 | ('ing', {'"ing" n': True})
+769 | ('lie', {'"lie" v': False, '"lie" loc post': True, ';\t"lie" v': True})
+770 | ('hing', {'"hing" dem': True, '"hing" det dem': False, ';\t"hing" det dem': True})
+771 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+772 | ('aw', {'"aw" v': True, '"aw" aff': False, ';\t"aw" aff': True})
+773 | ('.', {'"." sent': True})
+774 | ('Bawi', {'"Bawi" np': True})
+775 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+776 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+777 | ('kuv', {'"kuv" n': True})
+778 | ('na', {'"na" foc': False, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr 
+o1 sg neg': True})
+779 | ('myi', {'"myi" n': True})
+780 | ('ta', {'"ta" v': False, '"ta" inst': False, '"ta" agt': True, ';\t"ta" v': True, ';\t"ta" inst': True})
+781 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+782 | ('kuo', {'"kuo" v': True})
+783 | ('.', {'"." sent': True})
+784 | ('Zai', {'"Zai" np': True})
+785 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+786 | ('ziekuo', {'"ziekuo" n': True})
+787 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+788 | ('ima', {'"ima" agr p1 pl': False, ';\t"ima" agr p1 pl': True})
+789 | ('tlechuo', {'"tlechuo" v': True})
+790 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+791 | ('ta', {'"ta" v': True, '"ta" inst': False, '"ta" agt': False, ';\t"ta" inst': True, ';\t"ta" agt': True})
+792 | ('.', {'"." sent': True})
+793 | ('capaapaa', {'"capaapaa" n': True})
+794 | ('ta', {'"ta" v': False, '"ta" inst': False, '"ta" agt': True, ';\t"ta" v': True, ';\t"ta" inst': True})
+795 | ('Bawi', {'"Bawi" np': True})
+796 | ('kha', {'"kha" dem': True})
+797 | ('aruo', {'"aruo" n': True})
+798 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+799 | ('zaa', {'"zaa" v': True, '"a" mid': False, ';\t"a" mid': True})
+800 | ('.', {'"." sent': True})
+801 | ('capaapaa', {'"capaapaa" n': True})
+802 | ('ing', {'"ing" n': True})
+803 | ('kha', {'"kha" dem': True})
+804 | ('tluo', {'"tluo" v': False, '"tluo" n': True, ';\t"tluo" v': True})
+805 | ('lie', {'"lie" v': False, '"lie" loc post': True, ';\t"lie" v': True})
+806 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+807 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+808 | ('aw', {'"aw" v': True, '"aw" aff': False, ';\t"aw" aff': True})
+809 | ('.', {'"." sent': True})
+810 | ('ma', {'"ma" qp': False, '"ma" det def': True, ';\t"ma" qp': True})
+811 | ('cizung', {'"cizung" n': True})
+812 | ('hing', {'"hing" dem': True, '"hing" det dem': False, ';\t"hing" det dem': True})
+813 | ('ta', {'"ta" v': False, '"ta" inst': True, '"ta" agt': False, ';\t"ta" v': True, ';\t"ta" agt': True})
+814 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+815 | ('canungnung', {'"canungnung" n': True})
+816 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+817 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+818 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+819 | ('rukhya', {'"rukhya" v': True})
+820 | ('.', {'"." sent': True})
+821 | ('Zai', {'"Zai" np': True})
+822 | ('hne', {'"hne" cnjcoo': True})
+823 | ('kama', {'"kama" p1 sg': True})
+824 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+825 | ('ima', {'"ima" agr p1 pl': False, ';\t"ima" agr p1 pl': True})
+826 | ('luo', {'"luo" v': True, '"luo" loc post': False, ';\t"luo" loc post': True})
+827 | ('.', {'"." sent': True})
+828 | ('bienaing', {'"bienaing" n': True})
+829 | ('lie', {'"lie" v': False, '"lie" loc post': True, ';\t"lie" v': True})
+830 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+831 | ('Zai', {'"Zai" np': True})
+832 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+833 | ('Bawi', {'"Bawi" np': True})
+834 | ('kha', {'"kha" dem': True})
+835 | ('lasaw', {'"lasaw" n': True})
+836 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+837 | ('pi', {'"pi" v': True})
+838 | ('.', {'"." sent': True})
+839 | ('Zai', {'"Zai" np': True})
+840 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+841 | ('ingchiy', {'"ingchiy" n': True})
+842 | ('ta', {'"ta" v': False, '"ta" inst': True, '"ta" agt': False, ';\t"ta" v': True, ';\t"ta" agt': True})
+843 | ('dakhung', {'"dakhung" n': True})
+844 | ('kha', {'"kha" dem': True})
+845 | ('ina', {'"ina" agr o1 sg': True})
+846 | ('phiy', {'"phiy" v': True})
+847 | ('pa', {'"pa" cl': False, '"pa" nmlz': False, '"pa" ben': True, ';\t"pa" cl': True, ';\t"pa" nmlz': True})
+848 | ('.', {'"." sent': True})
+849 | ('canungnung', {'"canungnung" n': True})
+850 | ('ta', {'"ta" v': False, '"ta" inst': False, '"ta" agt': True, ';\t"ta" v': True, ';\t"ta" inst': True})
+851 | ('bi', {'"bi" n': True})
+852 | ('ina', {'"ina" agr o1 sg': True})
+853 | ('a', {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True})
+854 | ('chang', {'"chang" v': True})
+855 | ('pa', {'"pa" cl': False, '"pa" nmlz': False, '"pa" ben': True, ';\t"pa" cl': True, ';\t"pa" nmlz': True})
+856 | ('.', {'"." sent': True})
+857 | ('Ingkhuo', {'"ingkhuo" n': True})
+858 | ('chung', {'"chung" v': False, '"chung" nrel': True, ';\t"chung" v': True})
+859 | ('lie', {'"lie" v': False, '"lie" loc post': True, ';\t"lie" v': True})
+860 | ('na', {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" agr o1 
+sg neg': True})
+861 | ('cawsaa', {'"cawsaa" n': True})
+862 | ('pa', {'"pa" cl': True, '"pa" nmlz': False, '"pa" ben': False, ';\t"pa" nmlz': True, ';\t"pa" ben': True})
+863 | ('thung', {'"thung" n': True})
+864 | ('ama', {'"ama" p3 pl': False, '"ama" agr p3 pl': True, ';\t"ama" p3 pl': True})
+865 | ('aw', {'"aw" v': False, '"aw" aff': True, ';\t"aw" v': True})
+866 | ('.', {'"." sent': True})
+867 | ('Ahung', {'"ahung" qst': True})
+868 | ('ma', {'"ma" qp': True, '"ma" det def': False, ';\t"ma" det def': True})
+869 | ('ma', {'"ma" qp': False, '"ma" det def': True, ';\t"ma" qp': True})
+870 | ('caauv', {'"caauv" n': True})
+871 | ('hing', {'"hing" dem': True, '"hing" det dem': False, ';\t"hing" det dem': True})
+872 | ('na', {'"na" foc': False, '"na" agr p2 sg': True, '"na" agr o1 sg neg': False, ';\t"na" foc': True, ';\t"na" agr o1 sg 
+neg': True})
+873 | ('pi', {'"pi" v': True})
+874 | ('khing', {'"khing" v': True})
+875 | ('.', {'"." sent': True})
+876 | ('Zai', {'"Zai" np': False})
+877 | ('hne', {'"hne" cnjcoo': True})
+878 | ('Bawi', {'"Bawi" np': True})
+879 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+880 | ('ama', {'"ama" p3 pl': False, '"ama" agr p3 pl': True, ';\t"ama" p3 pl': True})
+881 | ('vie', {'"vie" adv': False, '"vie" comp': False, '"vie" dei ven': True, ';\t"vie" adv': True, ';\t"vie" comp': True})
+882 | ('chiy', {'"chiy" v': True})
+883 | ('.', {'"." sent': True})
+884 | ('Haatiytie', {'"haatiytie" n': True})
+885 | ('hluvpuv', {'"puv" nmlz': True})
+886 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+887 | ('ahe', {'"ahe" n': True})
+888 | ('ama', {'"ama" p3 pl': False, '"ama" agr p3 pl': True, ';\t"ama" p3 pl': True})
+889 | ('tlechuo', {'"tlechuo" v': True})
+890 | ('.', {'"." sent': True})
+891 | ('Zai', {'"Zai" np': True})
+892 | ('hne', {'"hne" cnjcoo': True})
+893 | ('Bawi', {'"Bawi" np': True})
+894 | ('ta', {'"ta" v': False, '"ta" inst': False, '"ta" agt': True, ';\t"ta" v': True, ';\t"ta" inst': True})
+895 | ('haatiytie', {'"haatiytie" n': True})
+896 | ('hluvpuv', {'"puv" nmlz': True})
+897 | ('ca', {'"ca" top': True, '"ca" agr o2 sg': False, '"ca" agr o2 sg neg': False, ';\t"ca" agr o2 sg': True, ';\t"ca" agr o2 
+sg neg': True})
+898 | ('ahe', {'"ahe" n': True})
+899 | ('ama', {'"ama" p3 pl': False, '"ama" agr p3 pl': True, ';\t"ama" p3 pl': True})
+900 | ('tlechuo', {'"tlechuo" v': True})
+901 | ('kha', {'"kha" dem': True})
+902 | ('ama', {'"ama" p3 pl': False, '"ama" agr p3 pl': True, ';\t"ama" p3 pl': True})
+903 | ('pachang', {'"pachang" v': False})
+904 | ('..', {'".." sent': False, '"." sent': True})
+Tokens:
+
+
+Errors:
+
+13 | "tuv" nmlz | {'"tuv" nmlz': False, '"tuv" adv': True, ';\t"tuv" nmlz': True}
+16 | "na" agr p2 sg | {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, 
+';\t"na" agr o1 sg neg': True}
+30 | "na" agr p2 sg | {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, 
+';\t"na" agr o1 sg neg': True}
+109 | "na" agr p2 sg | {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, 
+';\t"na" agr o1 sg neg': True}
+116 | "na" foc | {'"na" foc': False, '"na" agr p2 sg': True, '"na" agr o1 sg neg': False, ';\t"na" foc': True, ';\t"na" agr o1 
+sg neg': True}
+134 | "na" agr p2 sg | {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, 
+';\t"na" agr o1 sg neg': True}
+144 | "na" agr p2 sg | {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, 
+';\t"na" agr o1 sg neg': True}
+153 | "na" agr p2 sg | {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, 
+';\t"na" agr o1 sg neg': True}
+159 | "a" p3 sg | {'"a" p3 sg': False, '"a" agr p3 sg': True, ';\t"a" p3 sg': True}
+162 | "na" agr p2 sg | {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, 
+';\t"na" agr o1 sg neg': True}
+167 | "na" agr p2 sg | {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, 
+';\t"na" agr o1 sg neg': True}
+182 | "taw" pst hab asp | {'"taw" v': False, '"taw" n': False, '"taw" pst hab asp': True, ';\t"taw" v': True, ';\t"taw" n': 
+True}
+200 | "na" agr p2 sg | {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, 
+';\t"na" agr o1 sg neg': True}
+207 | "luo" loc post | {'"luo" v': True, '"luo" loc post': False, ';\t"luo" loc post': True}
+232 | "bienaing" n | {'"bienaing" n': False}
+235 | "aw" v | {'"aw" v': False, '"aw" aff': False}
+237 | "haatiytie" n | {'"haatiytie" n': False}
+238 | "kha" dem | {'"kha" dem': False}
+239 | "i" agr p1 sg | {'"i" agr p1 sg': False}
+240 | "hmung" v | {'"hmung" v': False}
+241 | "." sent | {'"." sent': False}
+268 | "ima" agr p1 pl | {'"ima" agr p1 pl': False, ';\t"ima" agr p1 pl': True}
+297 | "vaw" v | {'"vaw" v': True, '"vaw" adj': False, ';\t"vaw" adj': True}
+315 | "ima" agr p1 pl | {'"ima" agr p1 pl': False, ';\t"ima" agr p1 pl': True}
+319 | "na" foc | {'"na" foc': False, '"na" agr p2 sg': True, '"na" agr o1 sg neg': False, ';\t"na" foc': True, ';\t"na" agr o1 
+sg neg': True}
+322 | "cuo" n | {'"cuo" v': True, '"cuo" n': False, ';\t"cuo" n': True}
+326 | "na" agr p2 sg | {'"na" foc': False, '"na" agr p2 sg': True, '"na" agr o1 sg neg': False, ';\t"na" foc': True, ';\t"na" 
+agr o1 sg neg': True}
+340 | "yi" agr p3 pl | {'"yi" agr p3 pl': False, '"yi" agr o2 pl': False, '"yi" agr o3 pl': False, '"yi" agr o2 pl neg': False, 
+'"yi" agr o3 pl neg': False, ';\t"yi" agr p3 pl': True, ';\t"yi" agr o2 pl': True, ';\t"yi" agr o3 pl': True, ';\t"yi" agr o2 pl 
+neg': True, ';\t"yi" agr o3 pl neg': True}
+350 | "na" foc | {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" 
+agr o1 sg neg': True}
+371 | "na" foc | {'"na" foc': False, '"na" agr p2 sg': True, '"na" agr o1 sg neg': False, ';\t"na" foc': True, ';\t"na" agr o1 
+sg neg': True}
+408 | "ruo" n | {'"ruo" v': True, '"ruo" n': False, ';\t"ruo" n': True}
+437 | "na" foc | {'"na" foc': False, '"na" agr p2 sg': True, '"na" agr o1 sg neg': False, ';\t"na" foc': True, ';\t"na" agr o1 
+sg neg': True}
+458 | "na" foc | {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" 
+agr o1 sg neg': True}
+473 | "na" agr p2 sg | {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, 
+';\t"na" agr o1 sg neg': True}
+481 | "na" agr p2 sg | {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, 
+';\t"na" agr o1 sg neg': True}
+512 | "na" foc | {'"na" foc': False, '"na" agr p2 sg': True, '"na" agr o1 sg neg': False, ';\t"na" foc': True, ';\t"na" agr o1 
+sg neg': True}
+525 | "na" foc | {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, ';\t"na" 
+agr o1 sg neg': True}
+560 | "ning" n | {'"ning" v': False, '"ning" n': True}
+618 | "ima" agr p1 pl | {'"ima" agr p1 pl': False, ';\t"ima" agr p1 pl': True}
+630 | "ruo" n | {'"ruo" v': True, '"ruo" n': False, ';\t"ruo" n': True}
+770 | "hing" det dem | {'"hing" dem': True, '"hing" det dem': False, ';\t"hing" det dem': True}
+788 | "ima" agr p1 pl | {'"ima" agr p1 pl': False, ';\t"ima" agr p1 pl': True}
+806 | "na" agr p2 sg | {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, 
+';\t"na" agr o1 sg neg': True}
+814 | "na" agr p2 sg | {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, 
+';\t"na" agr o1 sg neg': True}
+817 | "na" agr p2 sg | {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, 
+';\t"na" agr o1 sg neg': True}
+825 | "ima" agr p1 pl | {'"ima" agr p1 pl': False, ';\t"ima" agr p1 pl': True}
+830 | "na" agr p2 sg | {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, 
+';\t"na" agr o1 sg neg': True}
+842 | "ta" inst | {'"ta" v': False, '"ta" inst': True, '"ta" agt': False, ';\t"ta" v': True, ';\t"ta" agt': True}
+860 | "na" agr p2 sg | {'"na" foc': True, '"na" agr p2 sg': False, '"na" agr o1 sg neg': False, ';\t"na" agr p2 sg': True, 
+';\t"na" agr o1 sg neg': True}
+862 | "pa" cl | {'"pa" cl': True, '"pa" nmlz': False, '"pa" ben': False, ';\t"pa" nmlz': True, ';\t"pa" ben': True}
+865 | "aw" aff | {'"aw" v': False, '"aw" aff': True, ';\t"aw" v': True}
+876 | "Zai" np | {'"Zai" np': False}
+903 | "pachang" v | {'"pachang" v': False}
+904 | ".." sent | {'".." sent': False, '"." sent': True}
+
+Decisions:
+
+		TP	FP	TN	FN
+SELECT:131 	4	0	0	0
+REMOVE:92 	47	0	0	0
+REMOVE:49 	1	0	0	0
+REMOVE:50 	1	0	0	0
+REMOVE:51 	6	0	0	0
+REMOVE:52 	2	0	0	0
+SELECT:54 	7	0	0	0
+SELECT:109 	36	2	0	0
+REMOVE:56 	1	0	0	0
+SELECT:57 	46	3	0	0
+REMOVE:58 	87	0	0	0
+SELECT:124 	22	1	0	0
+SELECT:60 	74	1	0	0
+SELECT:62 	16	0	0	0
+SELECT:64 	20	0	0	0
+REMOVE:65 	2	0	0	0
+REMOVE:69 	19	0	0	0
+REMOVE:130 	4	0	0	0
+REMOVE:67 	2	0	0	0
+REMOVE:66 	1	0	0	0
+REMOVE:68 	11	0	0	0
+SELECT:70 	37	1	0	0
+SELECT:72 	4	0	0	0
+REMOVE:73 	4	0	0	0
+REMOVE:74 	3	0	0	0
+REMOVE:75 	2	0	0	0
+REMOVE:136 	1	0	0	0
+SELECT:94 	6	0	0	0
+SELECT:79 	10	0	0	0
+SELECT:80 	6	0	0	0
+SELECT:81 	6	0	0	0
+SELECT:98 	3	0	0	0
+SELECT:83 	12	0	0	0
+SELECT:84 	18	0	0	0
+SELECT:86 	2	0	0	0
+REMOVE:123 	6	0	0	0
+SELECT:89 	28	1	0	0
+REMOVE:91 	4	0	0	0
+SELECT:122 	3	1	0	0
+REMOVE:93 	3	0	0	0
+REMOVE:97 	2	0	0	0
+REMOVE:96 	4	0	0	0
+REMOVE:125 	2	0	0	0
+REMOVE:99 	1	0	0	0
+SELECT:111 	5	0	0	0
+REMOVE:100 	2	0	0	0
+SELECT:101 	2	0	0	0
+SELECT:103 	3	0	0	0
+REMOVE:104 	1	0	0	0
+REMOVE:137 	2	0	0	0
+SELECT:127 	2	0	0	0
+SELECT:107 	2	0	0	0
+SELECT:121 	4	0	0	0
+REMOVE:110 	2	0	0	0
+REMOVE:139 	1	0	0	0
+REMOVE:77 	3	0	0	0
+SELECT:113 	6	0	0	0
+SELECT:112 	1	0	0	0
+REMOVE:116 	1	0	0	0
+REMOVE:117 	1	0	0	0
+REMOVE:126 	1	0	0	0
+SELECT:128 	1	0	0	0
+REMOVE:132 	1	0	0	0
+SELECT:134 	1	0	0	0
+SELECT:133 	1	0	0	0
+
+--------------------------------------------------------------------------------
+Input analyses: 1556
+Reference analyses: 1529
+Output analyses: 932
+
+Input ambiguity: 1.7212389380530972
+Reference ambiguity: 1.6913716814159292
+Output ambiguity: 1.0309734513274336
+
+False positives: 10
+False negatives: 44
+True positives: 614
+True negatives: 562
+
+Precision: 0.9839743589743589
+Recall: 0.9331306990881459
+F1: 0.9579
+
+
