@@ -26,7 +26,7 @@ Find the following files in this folder:
 
 To check the morphology: `echo (Lutuv sentence) | apertium -d . clt-morph`
 
-To check the disambiguation: `echo (Lutuv sentence) | apertium -d. clt-disam`
+To check the disambiguation: `echo (Lutuv sentence) | apertium -d . clt-disam`
 
 ## References
 [^1]: Francis M Tyers and Nick Howell. 2021. Morphological analysis and disambiguation for breton. _Language Resources and Evaluation_, 55:431–473
