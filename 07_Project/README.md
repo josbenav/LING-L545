@@ -10,7 +10,7 @@ After the disambiguation rule set for Lutuv was created, the performance of the 
 
 ## Documentation
 
-Find all the documentation used in this project in [this](https://github.com/josbenav/apertium-clt/tree/master) repository.
+Find all the documentation used in this project in the repository [here](https://github.com/josbenav/apertium-clt/tree/master).
 
 ## Relevant files
 
@@ -23,7 +23,7 @@ Find the following files in this folder:
 
 ### Practical codes
 
-To check the morphology: `echo (Lutuv sentence) | apertium -d . clt-morph | cg-conv`
+To check the morphology: `echo (Lutuv sentence) | apertium -d . clt-morph`
 
 To check the disambiguation: `echo Lutuv sentence | apertium -d. clt-disam`
 
