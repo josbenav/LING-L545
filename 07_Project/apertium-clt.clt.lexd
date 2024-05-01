@@ -1,0 +1,964 @@
+#Morphological Transducer for Lautu Chin
+#Part of speech categories
+#<n>      #Noun
+#<v>      #Verb
+#<adj>    #Adjective
+#<num>    #Numeral
+
+#<sent>   #Sentence-ending punctuation
+#<guio>   #Hyphen
+#<cm>     #Comma
+#<apos>   #Apostrophe
+#<quot>   #Quotation mark
+#<lquot>  #Left quotation mark
+#<rquot>  #Right quotation mark
+#<lpar>   #Left parenthesis
+#<rpar>   #Right parenthesis
+
+#Number morphology
+#<pl>     #Plural
+#<sg>     #Singular
+
+#Other symbols
+#>        #Morpheme boundary
+
+###############################################################################
+###                      M O R P H O T A C T I C S                         ###
+###############################################################################
+
+PATTERNS
+##Example inflection pattern:
+#NounRoot RegNounInfl
+VRoot VerbInfl
+NRoot [<n>:]
+NPRoot [<np>:]
+Adj [<adj>:]
+Number
+Punctuation
+ClosedClass
+
+Adv
+NAgr
+
+LEXICON VerbInfl
+<v>:
+<v>+aa<irr>:'a
+<v>+ta<part>:ta
+<v>+pa<nmlz>:pa
+
+##Example inflection lexicon:
+#LEXICON RegNounInfl
+#<n><sg>:
+#<n><pl>:>s
+
+
+###############################################################################
+###                         L E X I C O N                                  ###
+###############################################################################
+
+##Nouns
+LEXICON NRoot
+aa:aa #chicken
+aachiy:aachiy #chia seeds
+aaluv:aaluv #potato
+aata\maamawhnaa:aata\maamawhnaa #pennywort
+aa\taa:aa\taa #chick
+aciycaapa:aciycaapa #purple
+aciycaa\vawpa:aciycaa\vawpa #indigo
+acyi:acyi #lump of clay
+adaa:adaa #seedling
+ahe:ahe #mango
+ahehaw:ahehaw #mango peel
+ahringpa:ahringpa #green
+ahringvaapa:ahringvaapa #light green
+ahringvawpa:ahringvawpa #dark green
+aing:aing #chicken house
+ale\uovya:ale\uovya #Thai pea eggplant
+alung:alung #rock
+aluosiy:aluosiy #reason
+alyizoung:alyizoung #brown
+amepa:amepa #yellow
+anaa:anaa #water buffalo
+apacuvtuv:apacuvtuv #teacher
+aphaa:aphaa #bamboo mat
+apuv:apuv #shack
+ariythyi:ariythyi #bamboo shoot
+artiy:artiy #egg
+aruo:aruo #horse
+aruoing:aruoing #stable
+aruopa:aruopa #white
+asepa:asepa #red
+asevaapa:asevaapa #violet
+asevawpa:asevawpa #burgundy
+athlaa:athlaa #soul/ghost
+atiy:atiy #chicken egg
+avawpa:avawpa #black
+avuo\azoung:avuo\azoung #blue
+azaw:azaw #monkey
+babya:babya #Thai eggplant
+bapaa:bapaa #mushroom
+basa:basa #taro
+bawbawta:bawbawta #box
+bawkaw:bawkaw #kidney
+bawlung:bawlung #ball
+bawtung:bawtung #upper leg
+be:be #cheek
+bi:bi #pot
+bie:bie #yam
+bienaing:bienaing #church
+bisakuv:bisakuv #chayote squash
+buohlaa\saata:buohlaa\saata #banana flower
+buohla:buohla #banana
+buohlaahaw:buohlaahaw #banana peel
+buohriy:buohriy #shirt
+buohriy:buohriy #jacket
+buotung:buotung #upper arm
+buv:buv #nest
+byabyata:byabyata #bottle
+byihlyi\azoung:byihlyi\azoung #orange color
+byihlyi:byihlyi #orange
+bykaw:bykaw #foodbox
+caa:caa #letter
+caabaw:caabaw #mailbox
+caauv:caauv #book
+caauvming:caauvming #title
+cabya:cabya #table
+cacunghnaa:cacunghnaa #chest
+cahnie:cahnie #fox
+cakhaw:cakhaw #ankle bone
+cakhya'ya:cakhya'ya #chin
+cakuv:cakuv #porcupine
+calery:calery #celery
+canepa:canepa #elk
+camaa:camaa #calf
+canu:canu #January
+canungbachuv:canungbachuv #hearts of palm
+canungnung:canungnung #woman
+capaapaa:capaapaa #man
+caava:caava #river
+caw:caw #clothes 
+cawpe:cawpe #duck
+cawpetiy:cawpetiy #duck egg 
+cawsaa:cawsaa #human
+cawsaapaa:cawsaapaa #person
+cawsa:cawsa #person
+chaapie:chaapie #soap
+chadaw:chadaw #store
+chechiy:chechiy #tool
+chiepa:chiepa #June
+chuelyi:chuelyi #world, earth 
+chubalilipah:chubalilipah #butterfly 
+chuo:chuo #time, period, generation
+chuovyi:chuovyi #corn
+ciehluv:ciehluv #indian gooseberry
+ciy:ciy #seed
+ciykhuv:ciykhuv #reindeer
+ciytiy:ciytiy #oil
+cizung:cizung #knife
+cue:cue #cow
+cuesaa:cuesaa #beef
+cungle:cungle #coat
+cungle:cungle #jacket
+cuo:cuo #time frame
+cuv:cuv #hand
+daa\azoung:daa\azoung #bronze
+dakhung:dakhung #floor 
+dang:dang #length
+diypa:diypa #December
+haa:haa #teeth
+haaseta:haaseta #newborn
+haatiynung:haatiynung #girl
+haatiyta:haatiyta #boy
+haatiytapa:haatyitapa #boy
+haatiytie:haatiytie #children
+hlaa:hlaa #song
+hlawping:hlawping #air potato
+hlyidaw:hlyidaw #stairs
+hmaa:hmaa #wound
+hmang:hmang #place, thing
+hmiekkhuv:hmiekkhuv #roselle
+hmung\thlu:hmung\thlu #eagle
+hnaacabuv:hnaacabuv #nose
+hnaa:hnaa #leaf
+hnaahne:hnaahne #mustard greens
+hringna:hringna #life
+iesing:iesing #ginger
+ing:ing #house
+ingchiy:ingchiy #door
+ingchungkhue:ingchungkhue #family
+ingkaw:ingkaw #June plum
+ingkhuo:ingkhuo #room
+ingphiy:inhphiy #broom
+kawpuv\hlung:kawpuv\hlung #cabbage
+kawpuv:kawpuv #collard greens
+kawtung:kawtung #finish line
+ke:ke #back (of body)
+khukhu:khukhu #bean
+khuv:khuv #cover
+khycuo:khycuo #season
+khy:kyi #rain
+khypa:khypa #July
+kung:kung #plant
+kung:kung #tree			<<<REVIEW
+kuvcakhiy:kuvcakhiy #elbow
+kuvdaw:kuvdaw #finger
+kuv:kuv #hand
+lakaw:lakaw #buttocks
+lasaw:lasaw #gift
+letung:letung #shoulder
+lidu:lidu #heel
+lu:lu #farm, field
+luathlutuv:luathlutuv #farmer
+luopuv:luopuv #road
+luv:luv #head
+maakalaw:maakalaw #guava
+maamaw:maamaw #pumpkin
+mahuhnaa:mahuhnaa #culantro
+mathin:mathin #peach
+maw:maw #morning
+mawsa:mawsa #morning meal
+mie:mie #goat
+mingcuokaruvnung\azoung:mingcuokaruvnung\azoung #pink color
+minghming:minghming #eyelash
+ming:ming #eyes
+mingcakuvnung:mingcakuvnung #turtle
+mingnung:mingnung #grandmother
+mingpa:mingpa #grandfather
+mingpalong:mingpalong #eyeball
+mingruo\ciehluv:mingruo\ciehluv #plum
+mingsuv:mingsuv #grape
+mingtluo:mingtluo #eyebrow
+muo:muo #price
+muomuo:muomuo #rice (cooked)
+myi:myi #fire
+naakaryi:naakaryi #ear
+nannan:nannan #parsley
+ngaa:ngaa #fish
+nge:nge #human body
+nguo\azoung:nguo\azoung #silver
+ning:ning #sun
+ningdiy:ningdiy #shade
+nung:nung #mother
+oohie:oohie #chilis
+paa:paa #father
+paapaapa:paapaapa #flower
+pacah:pacah #lungs
+pacu:pacu #March
+pakaa:pakaa #lip, plate
+pakhuv:pakhuv #knee
+palung:palung #heart
+palyi:palyi #tongue
+pang:pang #blanket, shawl
+pasuv:pasuv #sugarcane
+pathiy:pathiy #liver
+patiy:patiy #corn stew
+patung:patung #April
+pavaa:pavaa #bird
+pazi:pazi #February
+paziy:paziy #cucumber
+pazuv:pazuv #mouse
+peti:peti #winged bean
+peti:peti #okra
+phiekhaw:phiekhaw #spoons
+phietla:phietla #spoon
+phiepuv:phiepuv #November
+phieta:phieta #October
+phungbie:phungbie #commandment
+phungpa:phungpa #story
+phyapa:phyapa #May
+phyidaw:phyidaw #toes
+phyihnie:phyihnie #footprint
+phyi:phyi #foot
+piesiy\hna:piesiy\hna #green onion
+piesiy:piesiy #onion
+piu:piu #festival
+profet:profet #prophet
+pyi:pyi #event
+raah:raah #crow, vulture
+rawtuv:rawtuv #pineapple
+re:re #work, job
+riy:riy #abdomen, waist, stomach
+riyvaalepa:riyvaalepa #large intestine
+riyvaataata:riyvaataata #small intestine
+ruekatung:ruekatung #neck
+rue:rue #neck
+ruo:ruo #forest
+saa:saa #flesh/meat
+saacapaa:saacapaa #son
+sabuti:sabuti #stew
+sacuo:sacuo #rice
+sahming:sahming #salmonberry
+sapaw:sapaw #papaya
+sa:sa #food			<<<REVIEW
+sanhie:sanhie #fox
+saruopa:saruopa #animals
+savi:savi #rabbit
+sawbya:sawbya #fishing basket
+sawhue:sawhue #pomelo
+sebing:sebing #bicycle
+sieing:sieing #school
+siymaluo:siymaluo #clock, hour
+singbie:singbie #garlic
+siy\azoung:siy\azoung #gold
+suena:suena #sin
+suo:suo #hair
+suobuv:suobuv #strand of hair
+suopa:suopa #men basket
+syinga:syinga #basket cord
+syry:syry #basket [to put spoons] 
+taataapa:taataapa #insects
+tarepa:tarepa #cidada
+taw:taw #key
+thawpat:thawpat #avocado
+thingce:thingce #tree branch
+thiy:thiy #death
+tiydiy:tiydiy #drop of water
+thlaapa:thlaapa #moon
+thlaa:thlaa #month
+thlaluoaw:thlaluoaw #window
+thlaluo:thlaluo #mirror
+thlaruo:thlaruo #September
+thlazing:thlazing #August
+thliy:thliy #wind(breeze)
+thung:thung #three
+tingkhung:tingkhung #tree
+titaw:titaw #pear
+tiypalaw:tiypalaw #boat
+tiy:tiy #water
+tluo:tluo #mountain
+tluo:tluo #mountain
+tluphie:tluphie #porch
+tuokaa:tuokaa #money
+tuokung:tuokung #machete
+uohnaa:uohnaa #vegetables
+uocuokhah:uocuokhah #bitter gourd
+uovya:uovya #pumpkin on a stick
+uv:uv #dog
+va:va #pig 
+vaing:vaing #pig house
+vasaa:vasaa #pork
+viesaa:viesaa #friend
+vuoruo:vuoruo #sky
+zangna:zangna #faith
+ziekuo:ziekuo #cat
+ziytuv:ziytuv #flower
+zuosa:zuosa #dinner
+#
+#
+LEXICON NPRoot
+Abyipa:Abyipa #Lord
+Byi:Byi #Byi
+Hiekha:Hiekha #Kakha
+Judah:Judah #Judah
+Khazing:Khazing #God
+Khrih:Khrih #Christ
+Paul:Paul #Paul
+Piter:Piter #Peter
+Vieruo:Vierou #Burma
+Vuo:Vuo #Byi
+Zingsuv:Zingsuv #Jesus
+#
+#
+Abraham:Abraham #Abraham
+Antiok:Antiok #Antioch
+Asia:Asia #Asia
+Barnabas:Barnabas #Barnabas
+David:David #David
+Efesa:Efesa #Ephesus
+Elijah:Elijah #Elijah
+Farasi:Farasi #Pharasee
+Filip:Filip #Philip
+Galilee:Galilee #Galilee
+Grik:Grik #Greek
+Herod:Herod #Herod
+Isaiah:Isaiah #Isaiah
+Isak:Isak #Isaac
+Israel:Israel #Israel
+Izipt:Izipt #Egypt
+Jakob:Jakob #Jacob
+Jeim:Jeim #James
+Jentail:Jentail #Gentile
+Jerusalem:Jerusalem #Jerusalem
+Johan:Johan #John
+Josef:Josef #Joseph
+Judas:Judas #Judas
+Judea:Judea #Judea
+Lazaruh:Lazaruh #Lazarus
+Mary:Mary #Mary
+Masidonia:Masidonia #Macedonia
+Messiah:Messiah #Messiah
+Moses:Moses #Moses
+Nazareth:Nazareth #Nazareth
+Pilat:Pilat #Pilate
+Rom:Rom #Rome
+Sabbath:Sabbath #Sabbath
+Samaria:Samaria #Samaria
+Saul:Saul #Saul
+Silas:Silas #Silas
+Simon:Simon #Simon
+Sisaria:Sisaria #Ceasarea
+Timote:Timote #Timothy
+#
+#
+Bawi:Bawi #Bawi
+Sui:Sui #Sui
+Zai:Zai #Zai
+Indianapolis:Indianapolis
+
+
+##verbs
+LEXICON VRoot
+achaa:chaa #step on	<<<review
+la:la #grab
+alaw:alaw #surpass
+apuvthe:apuvthe #be pretty  <<<review
+ta:ta #say
+aw:aw #copula be
+baa:baa #eat
+by:by #bury
+bya:bya #help
+bya:bya #water
+caa:caa #cry
+cabe:cabe #hit
+cade:cade #chase
+cakaa:cakaa #get sick
+caki:caki #pinch
+cakuo:cakuo #go, walk
+calyi:calyi #buy
+cang:cang #play
+cape:cape #write
+ce:ce #eat
+cha:cha #wake up (from nightmare or comma)
+chang:chang #tell
+chiy:chiy #arrive
+chung:chung #cook
+ciy:ciy #kick
+cuo:cuo #copula be
+daa:daa #stand
+dang:dang #drink
+daw:daw #get bit by a snake
+ding:ding #rest
+due:due #love
+haa:haa #pick up (from ground)
+hmung:hmung #see
+hmung:hmung #sleep
+hluo:hluo #take, borrow
+hnyi:hnyi #have
+hrie:hrie #work
+hriy:hriy #wear
+hryi:hryi #ask
+hyi:hyi #turn head and look 
+ka:ka #shoot
+kang:kang #be cold
+khing:khing #want #TODO: also aux
+khu:khu #can
+kie:kie #ascend
+kie:kie #fry
+kii:kii #hatch
+kuo:kuo #burn
+kuu:kuu #be wide
+kyi:kyi #crack
+ky:ky #dry up
+lie:lie #fall (people)
+ling:ling #plant
+luo:luo #dance
+mang:mang #look at
+maw:maw #drive
+nang:nang #be hungry
+ngie:ngie #obey, listen to, enter
+ning:ning #eat
+ning:ning #day (ningkha = one day)
+pachang:pachang #know
+pahaw:pahaw #open
+pahmung:pahmung #injure
+pahnyi:pahnyi #laugh
+palie:palie #respond
+para:para #break (a device stops working)
+paruv:paruv #steal
+pasa:pasa #be sick
+pasiy:pasiy #wash (anything)
+pasuv:pasuv #wash (clothes & fabrics, delicate) 
+pha:pha #arrive
+phiy:phiy #sweep
+phya:phya #carry
+pi:pi #give
+pu:pu #thrive, grow
+ri:ri #read
+rukhya:rukhya #degut fish
+ruo:ruo #run
+rue:rue #think
+syi:syi #be big
+sung:sung #lose
+suv:suv #hit
+ta:ta #say/tell
+taw:taw #meet
+te:te #brush (teeth)
+thaw:thaw #throw
+thie:thie #kill
+thiy:thiy #die
+thiydiy:thiydiy #drop of blood
+thiy:thiy #blood
+thla:thla #drop/put
+thle:thle #change clothes
+thluo:thluo #might
+thu:thu #to get up
+thyi:thyi #hear
+tla:tla #fall (objects)
+tlechuo:tlechuo #like
+tluo:tluo #cure
+tu:tu #hear
+tu:tu #sit
+tue:tue #do, work
+tue:tue #celebrate
+uo:uo #cut (with a small knife)
+u:u #call
+unga:unga #bark 
+vaa:vaa #go
+vaw:vaw #come
+ve:ve #visit
+zaa:zaa #sell
+zang:zang #believe
+ziy:ziy #follow
+zu:zu #fly
+zue:zue #compete
+
+
+##Adjectives
+LEXICON Adj
+aapale:aapale #boastful
+adawchipa:adawchipa #poor
+ahringpa:ahringpa #green
+alung:alung #be warm 	<<<review
+anuo:anuo #happy
+apahuopa:apahuopa #tasty
+apang:apang #round
+caa:caa #dry (for food)
+cahre:cahre #be sharp
+cie:cie #be certain
+chi:chi #be afraid
+haa:haa #slow
+haatiy:haatiy #young
+hring:hring #green
+kuu:kuu #be wide
+lee:lee #be big
+macuo:macuo #be old
+ngie:ngie #near
+ngiechi:ngiechi #sad
+pha:phca #good
+pahuo:pahuo #tasty
+pathe:pathe #clean
+puvthe:puvthe #beautiful/handsome/appealing
+pya:pya #be dirty
+ruv:ruv #be difficult
+sing:sing #smart
+taa:taa #small
+thaa:thaa #new
+thing:thing #wooden (made of wood)
+thlung:thlung #be sweet
+thyiking:thyiking #cute, gorgeous
+vaw:vaw #black
+
+
+##Adverbs
+#TODO: distinguish between post-verbal and elsewhere
+LEXICON Adv
+atahing<adv>:atahing #now
+avuochaning<adv>:avuochaning #yesterday
+cipari<adv>:cipari #regularly, routinely
+diy<adv>:diy #completely
+dyi<adv>:dyi #only
+duvsaa<adv>:duvsaa #slowly
+hmuo<adv>:hmuo #even
+mawluo<adv>:mawluo #tomorrow
+pariy<adv>:pariy #always
+ra<adv>:ra #also
+tli<adv>:tli #already/yet/anymore
+
+PATTERNS
+#NAgrIV
+#NAgrIV[-no-a] [+a<mid>:a]
+#NAgrNeg
+#NAgrTV
+
+#PATTERN NAgrIV
+#[subj<agr>:] NAgrIVpos(1) [<sg>:]
+#[subj<agr>:] NAgrIVpos(1):NAgrIVpos(2) [<pl>:]
+
+LEXICON NAgrIVpos(2)
+<p1>:i[no-a] :ima
+<p2>:na      :niema
+<p3>:a       :ama
+
+#LEXICON NAgrNeg
+#va<neg>:va
+#subj<agr><p1><sg>:ang
+#va<neg>+subj<agr><p1><sg>:vang
+#subj<agr><p1><pl>:puv
+#subj<agr><p2>:ciy
+#subj<agr><p2><pl>:ung
+#subj<agr><p2><pl>+la<imp>:ungla
+#subj<agr><p2><pl>:ungciy
+#va<neg>+subj<agr><p3><sg>:vyi
+#va<neg>+subj<agr><p3><sg>:vayi
+#subj<agr><p3><sg>:yi
+
+#LEXICON NAgrTV
+#obj<agr><p1><sg>:na
+#obj<agr><p2>:ca
+
+LEXICON NAgr
+##Overt pronouns
+#Affirmative and negative
+kama<p1><sg>:kama #1sg
+nama<p2><sg>:nama #2sg
+a<p3><sg>:a #3sg
+kiema<p1><pl>:kiema #1pl
+niema<p2><pl>:niema #2pl
+ama<p3><pl>:ama #3pl
+
+pron<prn><p3><pl>:iema
+
+##Transitive verb agreement paradigm
+#Affirmative
+#Subject
+i<agr><p1><sg>:i #1sg.subj.agr
+na<agr><p2><sg>:na #2sg.subj.agr
+na<agr><p2><sg>+a<mid>:naa
+ciy<agr><p2><sg>:ciy #2sg.subj.agr
+a<agr><p3><sg>:a #3sg.subj.agr
+ima<agr><p1><pl>:ima #1pl.subj.agr
+niema<agr><p2><pl>:niema #2pl.subj.agr
+ung\ciy<agr><p2><pl>:ung\ciy #ung ciy #2pl.subj.agr
+yi<agr><p3><pl>:yi #3pl.subj.agr
+ama<agr><p3><pl>:ama #3pl.subj.agr
+
+yi<agr><p3><pl>+te<cnjcoo>:yite
+va<neg>+yi<agr><p3><pl>:vayi
+
+#subj<agr><p1><sg>+obj<agr><p2><sg>:ica
+
+#Transitive verb agreement paradigm
+#Affirmative
+#Object pronouns
+ina<agr><o1><sg>:ina #1sg.obj.agr
+ca<agr><o2><sg>:ca #2sg.obj.agr
+#ø<agr><o1><sg>:ø #3sg.obj.agr
+malie<agr><o1><pl>:malie #1pl.obj.agr
+yi<agr><o2><pl>:yi #2pl.obj.agr
+yi<agr><o3><pl>:yi #3pl.obj.agr
+
+yi<agr><o2><pl>+te<cnjcoo>:yite
+yi<agr><o3><pl>+te<cnjcoo>:yite
+
+##Transitive verb agreement paradigm
+#Negative
+#Object
+na<agr><o1><sg><neg>:na #1sg.obj.agr
+ca<agr><o2><sg><neg>:ca #2sg.obj.agr
+#ø<agr><o3><sg><neg>:ø #3sg.obj.agr
+malie<agr><o1><pl><neg>:malie #1pl.obj.agr
+yi<agr><o2><pl><neg>:yi #2pl.obj.agr
+yi<agr><o3><pl><neg>:yi #3pl.obj.agr
+
+##Transitive verb agreement paradigm
+#Negative
+#Subject
+#va<neg>:va
+#va<neg>+subj<agr><p1><sg>:vang
+#subj<agr><p1><sg>:ang
+#subj<agr><p2>:ciy
+#va<neg>+subj<agr><p3><sg>:viy #3sg.subj.agr.not
+#subj<agr><p1><pl>:puv
+#subj<agr><p2><pl>:ung
+#subj<agr><p3><pl>:yi
+
+#subj<agr><p3>+obj<agr><p2>:aca
+#subj<agr><p3>+obj<agr><p2>+a<mid>:acaa
+
+
+
+##Closed class morphemes
+LEXICON ClosedClass
+ma<qp>:ma
+ma<det><def>:ma
+va<neg>:va
+pa<nmlz>:pa
+pa<ben>:pa #benefactive
+pa<nmlz>+ta<cnjsub>:pata
+tapata<cnjsub>:tapata #as that ? #TODO: POS, analyze further?
+khata<adv>:khata #like that ? #TODO: POS
+tiyta<adv>:tiyta #as that ? #TODO: POS
+te<fut>:te
+taw<pst><hab><asp>:taw
+nguoluo<prog><asp>:nguoluo
+buo<asp>:buo
+aa<irr>:aa
+'a<irr>:'a				#<<<review
+na<foc>:na
+ca<top>:ca 
+ta<pr>+na<pr>:tana #TODO: check
+ca<pr>+ta<pr>:cata #TODO: check
+ca<pr>+pa<nmlz>:capa #TODO: check
+hing<det><dem>:hing
+lie<loc><post>:lie
+luo<loc><post>:luo #locative 
+li<neg>:li #NEG in subordinate clauses
+li<neg>+pa<nmlz>:lipa
+aa<irr>:aa
+laa<comp>:laa #than/comparative particle
+ce<sup>:ce #most/superlative
+vie<comp>:vie #more/comparative
+khah<neg><imp>:khah #negative imperative/not
+nakaw:nakaw #therefore			<<<review
+kie:kie #if/either			<<<review
+thi:thi #please				<<<review
+hne<cnjcoo>:hne #and
+cuorasala<cnjsub>:cuorasala #however
+kieca<cnjsub>:kieca #[something conditional]
+nakawta<cnjsub>:nakawta #because
+cacuonakawta<cnjsub>:cacuonakawta #because [sentence-initial]
+tahematapakieca<cnjsub>:tahematapakieca #thus
+zaw<grp>:zaw
+tie<grp>:tie
+se<part><imp>:se
+taata<pr>:taata #from/with #TODO: POS
+riypata<pr>:riypata #for #TODO: POS
+riypa<pr>:riypa #for #TODO: POS
+kaw<pr>:kaw #about  #TODO: POS
+pakhaa<adv>:pakhaa #again
+cakhutaata<adv>:cakhutaata #after that
+thueta<pr>:thueta #because of
+hingpa<det>:hingpa #this #TODO: POS
+cuose<part><juss>:cuose #let it be
+hneta<pr>:hneta #with
+aw<aff>:aw #affirmative response [sentence initial]
+tuv<nmlz>:tuv #nominalizer
+te<cvb>:te #converb [connects two verbs?]
+sa<emph>:sa #emphatic
+ta<inst>:ta #instrumental
+ta<agt>:ta #agent
+pa<cl>:pa #classifier
+#
+#Deictic demonstratives
+hing<dem>:hing #this
+kha<dem>:kha #that
+hue<dem>:hue #that (over there)
+khy<dem>:khy #that (up there, above)
+khuv<dem>:khuv #that (down there, below)
+#
+#locative demonstratives
+mana<dem>:mana #here
+#
+#Preverbal deictics
+va<dei><and>:va #away from the DC andative, andative
+vie<dei><ven>:vie #toward DC, venitive
+za<dei><dwn>:za #down toward DC
+za<dei><dwn>+a<mid>:zaa
+kie<dei><upw>:kie #upward
+vya<dei>:vya #[archaic]
+#
+#
+#Questions
+ma<qp>:ma #q-particle
+ahung<qst>:ahung #who
+khaapa<qst>:khaapa #what
+khaaning<qst>:khaaning #when
+khaalie<qst>:khaalie #where
+khaanakaw<qst>:khaanakaw #why
+
+PATTERNS
+Adpositions [<nrel>:] > [+lie<loc>:lie]
+
+LEXICON Adpositions
+athaa:athaa #near
+cung:cung #on top of/above/up
+chung:chung #inside of
+hnangkaa:hnangkaa #behind
+hmie:hmie #in front of
+a\tha:a\tha #near/by/next to/beside 	<<<review
+raw:raw #below/under/down
+alalalie:alalalie #in between
+lee:lee #outside of
+ale:ale #outside 
+#
+#
+
+PATTERN Number
+Numeral [<num>:]
+Classifier [+:] NumeralStem
+#sometimes written with spaces in Bible
+#but including these probably way over-generates
+#Classifier
+#NumeralStem
+
+LEXICON NumeralStem
+hripa<num>:hripa #zero
+kha<num>:kha #one
+hning<num>:hning #two
+thung<num>:thung #three
+paliy<num>:paliy #four
+pangaa<num>:pangaa #five
+caruv<num>:caruv #six
+sariy<num>:sariy #seven
+cari<num>:cari #eight
+caky<num>:caky #nine
+hraa<num>:hraa #ten
+
+
+##Classifiers
+LEXICON Classifier
+baw<cl>:baw #box
+bi<cl>:bi #cooking pot
+buv<cl>:buv
+bya<cl>:bya
+ce<cl>:ce
+che<cl>:che #fractions
+chuo<cl>:chuo #generation
+cuo<cl>:cuo
+cuv<cl>:cuv
+daa<cl>:daa
+daw<cl>:daw
+duo<cl>:duo
+diy<cl>:diy
+haw<cl>:haw
+hla<cl>:hla
+hlung<cl>:hlung
+hlyi<cl>:hlyi
+hmang<cl>:hmang
+hmung<cl>:hmung
+hnaa<cl>:hnaa
+hnie<cl>:hnie
+hra<cl>:hra
+hrie<cl>:hrie
+ing<cl>:ing
+kaa<cl>:kaa
+kaw<cl>:kaw
+kha<cl>:kha
+khue<cl>:khue
+khuo<cl>:khuo
+khuv<cl>:khuv
+khy<cl>:khy
+kiy<cl>:kiy
+kung<cl>:kung #tree
+kuo<cl>:kuo
+kuv<cl>:kuv
+law<cl>:law
+le<cl>:le
+lu<cl>:lu
+lung<cl>:lung
+luo<cl>:luo
+maw<cl>:maw
+me<cl>:me
+ming<cl>:ming
+muo<cl>:muo
+myi<cl>:myi
+naw<cl>:naw
+nge<cl>:nge
+ning<cl>:ning
+nuo<cl>:nuo
+pa<cl>:pa
+pa<cl>:pa
+paa<cl>:paa
+pang<cl>:pang
+phang<cl>:phang
+phie<cl>:phie
+phyi<cl>:phyi
+phung<cl>:phung
+phuv<cl>:phuv
+pie<cl>:pie
+pu<cl>:pu
+puv<cl>:puv
+pya<cl>:pya
+pyi<cl>:pyi
+riy<cl>:riy
+rung<cl>:rung
+ruo<cl>:ruo
+ry<cl>:ry
+ryi<cl>:ryi
+sa<cl>:sa
+saw<cl>:saw
+siy<cl>:siy
+sung<cl>:sung
+suo<cl>:suo
+suv<cl>:suv
+thang<cl>:thang
+thaw<cl>:thaw
+thla<cl>:thla
+thyi<cl>:thyi
+ting<cl>:ting
+tluo<cl>:tluo
+tue<cl>:tue
+tung<cl>:tung
+tuo<cl>:tuo
+uv<cl>:uv
+vaa<cl>:vaa
+yi<cl>:yi
+za<cl>:za
+zaa<cl>:zaa
+zung<cl>:zung
+zuo<cl>:zuo
+
+LEXICON Quantifier
+hluv #many
+caw #few
+palang #all
+cicuo #each
+hrangpa #another
+de #enough
+bangkhuo #all
+
+LEXICON PostQuant
+sa
+tuv
+ce
+vie
+hringhruo
+hryly
+
+PATTERNS
+[subj<agr><p3><sg>+:a] < Quantifier [<qnt>:]
+Quantifier [<qnt>+ta<cnjsub>:ta]
+PostQuant [<adv>:] #TODO: tags?
+
+[hluv<qnt>+puv<nmlz>:hluvpuv]
+
+
+LEXICON Numeral
+/([0123456789])+/
+/([0123456789])+[.,]([0123456789])+/
+
+LEXICON Punctuation
+
+.<sent>:.
+..<sent>:..
+...<sent>:...
+;<sent>:;
+\:<sent>:\:
+!<sent>:!
+-<guio>:-
+—<guio>:—
+,<cm>:,
+?<sent>:?
+'<apos>:'
+"<quot>:"
+«<lquot>:«
+»<rquot>:»
+”<rquot>:”
+“<lquot>:“
+(<lpar>:(
+\]<rpar>:\]
+\[<lpar>:\[
+)<rpar>:)
+\\<sent>:\\
+\/<sent>:\/
+
+
+#Resources:
+#https://github.com/apertium/lexd/blob/master/Usage.md
+#https://wiki.apertium.org/wiki/List_of_symbols
+#https://wiki.apertium.org/wiki/Starting_a_new_language_with_HFST#Lexicon
+#https://wiki.apertium.org/wiki/Lttoolbox_and_lexc
+#https://wiki.apertium.org/wiki/Apertium-specific_conventions_for_lexc
+#https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstHome
+#https://github.com/hfst/
+#https://wiki.apertium.org/wiki/Hfst
