@@ -1,0 +1,2677 @@
+#Manual disambiguation
+#sentence 1
+"<Nama>"
+	"nama" p2 sg
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<kama>"
+	"kama" p1 sg
+"<laa>"
+	"laa" comp
+"<na>"
+;	"na" foc
+	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<haatiy>"
+	"haatiy" adj
+"<vie>"
+;	"vie" adv
+	"vie" comp
+;	"vie" dei ven
+"<.>"
+	"." sent
+
+#sentence 2
+"<Ma>"
+;	"ma" qp
+	"ma" det def
+"<caauv>"
+	"caauv" n
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<calyi>"
+	"calyi" v
+"<tuv>"
+;	"tuv" nmlz
+	"tuv" adv
+"<hing>"
+	"hing" dem
+;	"hing" det dem
+"<kama>"
+	"kama" p1 sg
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<i>"
+	"i" agr p1 sg
+"<cuo>"
+	"cuo" v
+;	"cuo" n
+"<.>"
+	"." sent
+
+#sentence 3
+"<i>"
+	"i" agr p1 sg
+"<nung>"
+	"nung" n
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<sabuti>"
+	"sabuti" n
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<chang>"
+	"chang" v
+"<.>"
+	"." sent
+
+#sentence 4
+"<piu>"
+	"piu" n
+"<lie>"
+;	"lie" v
+	"lie" loc post
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<haatiytie>"
+	"haatiytie" n
+"<ama>"
+;	"ama" p3 pl
+	"ama" agr p3 pl
+"<aw>"
+	"aw" v
+;	"aw" aff
+"<.>"
+	"." sent
+
+#sentence 5
+"<Bawi>"
+	"Bawi" np
+"<hne>"
+	"hne" cnjcoo
+"<Zai>"
+	"Zai" np
+"<ta>"
+;	"ta" v
+;	"ta" inst
+	"ta" agt
+"<bi>"
+	"bi" n
+"<malie>"
+	"malie" agr o1 pl
+;	"malie" agr o1 pl neg
+"<ama>"
+;	"ama" p3 pl
+	"ama" agr p3 pl
+"<chang>"
+	"chang" v
+"<pa>"
+;	"pa" nmlz
+	"pa" ben
+"<.>"
+	"." sent
+
+#sentence 6
+"<Sui>"
+	"Sui" np
+"<ta>"
+;	"ta" v
+;	"ta" inst
+	"ta" agt
+"<Bawi>"
+	"Bawi" np
+"<hne>"
+	"hne" cnjcoo
+"<Zai>"
+	"Zai" np
+"<ahe>"
+	"ahe" n
+"<ama>"
+;	"ama" p3 pl
+	"ama" agr p3 pl
+"<ce>"
+	"ce" v
+;	"ce" adv
+;	"ce" sup
+"<pa>"
+	"pa" nmlz
+;	"pa" ben
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<hmung>"
+	"hmung" v
+"<.>"
+	"." sent
+
+#sentence 7
+"<haatiytie>"
+	"haatiytie" n
+"<ta>"
+;	"ta" v
+;	"ta" inst
+	"ta" agt
+"<caauv>"
+	"caauv" n
+"<kha>"
+	"kha" dem
+"<apacuvtuv>"
+	"apacuvtuv" n
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<ama>"
+;	"ama" p3 pl
+	"ama" agr p3 pl
+"<pi>"
+	"pi" v
+"<aa>"
+;	"aa" n
+	"aa" irr
+"<.>"
+	"." sent
+
+#sentence 8
+"<capaapaa>"
+	"capaapaa" n
+"<ta>"
+;	"ta" v
+;	"ta" inst
+	"ta" agt
+"<haatiyta>"
+	"haatiyta" n
+"<kha>"
+	"kha" dem
+"<bawlung>"
+	"bawlung" n
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<thaw>"
+	"thaw" v
+"<.>"
+	"." sent
+
+#sentence 9
+"<canungnung>"
+	"canungnung" n
+"<ta>"
+;	"ta" v
+;	"ta" inst
+	"ta" agt
+"<muomuo>"
+	"muomuo" n
+"<kha>"
+	"kha" dem
+"<apacuvtuv>"
+	"apacuvtuv" n
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<pi>"
+	"pi" v
+"<.>"
+	"." sent
+
+#sentence 10
+"<capaapaa>"
+	"capaapaa" n
+"<ta>"
+;	"ta" v
+;	"ta" inst
+	"ta" agt
+"<canungnung>"
+	"canungnung" n
+"<kha>"
+	"kha" dem
+"<aruo>"
+	"aruo" n
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<zaa>"
+	"zaa" v
+;	"a" mid
+;		"za" dei dwn
+"<.>"
+	"." sent
+
+#sentence 11
+"<uv>"
+	"uv" n
+"<ta>"
+;	"ta" v
+;	"ta" inst
+	"ta" agt
+"<ziekuo>"
+	"ziekuo" n
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<cade>"
+	"cade" v
+"<.>"
+	"." sent
+
+#sentence 12
+"<ma>"
+;	"ma" qp
+	"ma" det def
+"<ziekuo>"
+	"ziekuo" n
+"<hing>"
+	"hing" dem
+;	"hing" det dem
+"<uv>"
+	"uv" n
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<cade>"
+	"cade" v
+"<.>"
+	"." sent
+
+#sentence 13
+"<ma>"
+;	"ma" qp
+	"ma" det def
+"<phietla>"
+	"phietla" n
+"<hing>"
+	"hing" dem
+;	"hing" det dem
+"<ta>"
+;	"ta" v
+	"ta" inst
+;	"ta" agt
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<muomuo>"
+	"muomuo" n
+"<i>"
+	"i" agr p1 sg
+"<baa>"
+	"baa" v
+"<.>"
+	"." sent
+
+#sentence 14
+"<ing>"
+	"ing" n
+"<lie>"
+;	"lie" v
+	"lie" loc post
+"<na>"
+;	"na" foc
+	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<aw>"
+	"aw" v
+;	"aw" aff
+"<ma>"
+	"ma" qp
+;	"ma" det def
+"<.>"
+	"." sent
+
+#sentence 15
+"<ma>"
+;	"ma" qp
+	"ma" det def
+"<ahe>"
+	"ahe" n
+"<thyihning>"
+	"hning" num
+		"thyi" cl
+"<hue>"
+	"hue" dem
+"<ama>"
+;	"ama" p3 pl
+	"ama" agr p3 pl
+"<thlung>"
+	"thlung" adj
+"<sa>"
+;	"sa" n
+;	"sa" adv
+	"sa" emph
+"<.>"
+	"." sent
+
+#sentence 16
+"<caauv>"
+	"caauv" n
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<cabya>"
+	"cabya" n
+"<hnangkaa>"
+	"hnangkaa" nrel
+"<lie>"
+;	"lie" v
+	"lie" loc post
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<aw>"
+	"aw" v
+;	"aw" aff
+"<.>"
+	"." sent
+
+#sentence 17
+"<capaapaa>"
+	"capaapaa" n
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<ing>"
+	"ing" n
+"<hne>"
+	"hne" cnjcoo
+"<bienaing>"
+	"bienaing" n
+"<alalalie>"
+	"alalalie" nrel
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<aw>"
+	"aw" v
+;	"aw" aff
+"<.>"
+	"." sent
+
+#sentence 18
+"<uv>"
+	"uv" n
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<caava>"
+	"caava" n
+"<athaa>"
+	"athaa" nrel
+"<luo>"
+;	"luo" v
+	"luo" loc post
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<ruo>"
+	"ruo" v
+;	"ruo" n
+"<.>"
+	"." sent
+
+
+#sentence 19
+"<capaapaa>"
+	"capaapaa" n
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<raw>"
+	"raw" nrel
+"<luo>"
+;	"luo" v
+	"luo" loc post
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<mang>"
+	"mang" v
+"<.>"
+	"." sent
+
+#sentence 20
+"<avuochaning>"
+	"avuochaning" adv
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<sapaw>"
+	"sapaw" n
+"<i>"
+	"i" agr p1 sg
+"<ning>"
+	"ning" v
+;	"ning" n
+"<.>"
+	"." sent
+
+#sentence 21
+"<sapaw>"
+	"sapaw" n
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<i>"
+	"i" agr p1 sg
+"<ning>"
+	"ning" v
+;	"ning" n
+"<aa>"
+;	"aa" n
+	"aa" irr
+"<.>"
+	"." sent
+
+#sentence 22
+"<caauv>"
+	"caauv" n
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<i>"
+	"i" agr p1 sg
+"<ri>"
+	"ri" v
+"<taw>"
+;	"taw" v
+;	"taw" n
+	"taw" pst hab asp
+"<.>"
+	"." sent
+
+#sentence 23
+"<haatiyta>"
+	"haatiyta" n
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<ahe>"
+	"ahe" n
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<ce>"
+	"ce" v
+;	"ce" adv
+;	"ce" sup
+"<.>"
+	"." sent
+
+#sentence 24
+"<Ahung>"
+	"ahung" qst
+"<kha>"
+	"kha" dem
+"<ma>"
+	"ma" qp
+;   "ma" det def
+"<na>"
+;   "na" foc
+	"na" agr p2 sg
+;   "na" agr o1 sg neg
+"<hmung>"
+	"hmung" v
+"<.>"
+	"." sent
+
+#sentence 25
+"<uv>"
+	"uv" n
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<ing>"
+	"ing" n
+"<lie>"
+;	"lie" v
+	"lie" loc post
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<aw>"
+	"aw" v
+;	"aw" aff
+"<.>"
+	"." sent
+
+#sentence 26
+"<Zai>"
+	"Zai" np
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<Indianapolis>"
+	"Indianapolis" np
+"<luo>"
+	"luo" v
+;	"luo" loc post
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<kha>"
+	"kha" dem
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<maw>"
+	"maw" v
+;	"maw" n
+"<aa>"
+;	"aa" n
+	"aa" irr
+"<.>"
+	"." sent
+
+#sentence 27
+"<capaapaa>"
+	"capaapaa" n
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<ahe>"
+	"ahe" n
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<ce>"
+	"ce" v
+;	"ce" adv
+;	"ce" sup
+"<.>"
+	"." sent
+
+#sentence 28
+"<caauv>"
+	"caauv" n
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<ca>"
+;	"ca" top
+	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<pi>"
+	"pi" v
+"<.>"
+	"." sent
+
+#sentence 29
+"<khaapa>"
+	"khaapa" qst
+"<ma>"
+	"ma" qp
+;	"ma" det def
+"<Bawi>"
+	"Bawi" np
+"<ta>"
+;	"ta" v
+;	"ta" inst
+	"ta" agt
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<ce>"
+	"ce" v
+;	"ce" adv
+;	"ce" sup
+"<.>"
+	"." sent
+
+#sentence 30
+"<Bienaing>"
+    "bienaing" n
+"<lie>"
+;   "lie" v
+    "lie" loc post
+"<a>"
+;   "a" p3 sg
+    "a" agr p3 sg
+"<aw>"
+    "aw" v
+;   "aw" aff
+"<pa>"
+;   "pa" cl
+    "pa" nmlz
+;   "pa" ben
+"<haatiytie>"
+    "haatiytie" n
+"<kha>"
+    "kha" dem
+"<i>"
+    "i" agr p1 sg
+"<hmung>"
+    "hmung" v
+"<.>"
+    "." sent
+
+#sentence 31
+"<khaalie>"
+	"khaalie" qst
+"<ma>"
+	"ma" qp
+;	"ma" det def
+"<Zai>"
+	"Zai" np
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<aw>"
+	"aw" v
+;	"aw" aff
+"<.>"
+	"." sent
+
+#sentence 32
+"<Cawsaapaa>"
+	"cawsaapaa" n
+"<ta>"
+;	"ta" v
+;	"ta" inst
+	"ta" agt
+"<saa>"
+	"saa" n
+"<kha>"
+	"kha" dem
+"<avuochaning>"
+	"avuochaning" adv
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<ce>"
+	"ce" v
+;	"ce" adv
+;	"ce" sup
+"<.>"
+	"." sent
+
+#sentence 33
+"<khaaning>"
+	"khaaning" qst
+"<ma>"
+	"ma" qp
+;	"ma" det def
+"<Bawi>"
+	"Bawi" np
+"<hne>"
+	"hne" cnjcoo
+"<Zai>"
+	"Zai" np
+"<ta>"
+;	"ta" v
+;	"ta" inst
+	"ta" agt
+"<saa>"
+	"saa" n
+"<ama>"
+	"ama" agr p3 pl
+;	"ama" p3 pl
+"<ce>"
+	"ce" v
+;	"ce" adv
+;	"ce" sup
+"<.>"
+	"." sent
+
+#sentence 34
+"<canungnung>"
+	"canungnung" n
+"<ima>"
+;	"ima" agr p1 pl
+"<hmung>"
+	"hmung" v
+"<pa>"
+;	"pa" cl
+	"pa" nmlz
+;	"pa" ben
+"<kha>"
+	"kha" dem
+"<i>"
+	"i" agr p1 sg
+"<viesaa>"
+	"viesaa" n
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<cuo>"
+	"cuo" v
+;	"cuo" n
+"<.>"
+	"." sent
+
+#sentence 35
+"<caauv>"
+	"caauv" n
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<apacuvtuv>"
+	"apacuvtuv" n
+"<i>"
+	"i" agr p1 sg
+"<pi>"
+	"pi" v
+"<.>"
+	"." sent
+
+#sentence 36
+"<ahung>"
+	"ahung" qst
+"<ma>"
+	"ma" qp
+;	"ma" det def
+"<Zai>"
+	"Zai" np
+"<kha>"
+	"kha" dem
+"<caauv>"
+	"caauv" n
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<pi>"
+	"pi" v
+"<.>"
+	"." sent
+
+#sentence 37
+"<khaapa>"
+	"khaapa" qst
+"<uv>"
+	"uv" n
+"<kha>"
+	"kha" dem
+"<ma>"
+	"ma" qp
+;	"ma" det def
+"<na>"
+;	"na" foc
+	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<vaw>"
+	"vaw" v
+;	"vaw" adj
+"<.>"
+	"." sent
+
+#sentence 38
+"<Ahung>"
+	"ahung" qst
+"<kha>"
+	"kha" dem
+"<ma>"
+	"ma" qp
+;	"ma" det def
+"<na>"
+;	"na" foc
+	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<hmung>"
+	"hmung" v
+"<.>"
+	"." sent
+
+#sentence 39
+"<va>"
+	"va" n
+;	"va" neg
+;	"va" dei and
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<paruv>"
+	"paruv" v
+"<pa>"
+;	"pa" cl
+	"pa" nmlz
+;	"pa" ben
+"<paa>"
+	"paa" n
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<ahung>"
+	"ahung" qst
+"<ma>"
+	"ma" qp
+;	"ma" det def
+"<.>"
+	"." sent
+
+#sentence 40
+"<canungnung>"
+	"canungnung" n
+"<ima>"
+;	"ima" agr p1 pl
+"<hmung>"
+	"hmung" v
+"<pa>"
+;	"pa" cl
+	"pa" nmlz
+;	"pa" ben
+"<kha>"
+	"kha" dem
+"<na>"
+;	"na" foc
+	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<viesaa>"
+	"viesaa" n
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<cuo>"
+	"cuo" v
+;	"cuo" n
+"<ma>"
+	"ma" qp
+;	"ma" det def
+"<.>"
+	"." sent
+
+#sentence 41
+"<phungpa>"
+	"phungpa" n
+"<na>"
+;	"na" foc
+	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<i>"
+	"i" agr p1 sg
+"<ca>"
+;	"ca" top
+	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<cang>"
+	"cang" v
+"<.>"
+	"." sent
+
+#sentence 42
+"<Bienaing>"
+	"bienaing" n
+"<lie>"
+;	"lie" v
+	"lie" loc post
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<aw>"
+	"aw" v
+;	"aw" aff
+"<pa>"
+;	"pa" cl
+	"pa" nmlz
+;	"pa" ben
+"<haatiytie>"
+	"haatiytie" n
+"<kha>"
+	"kha" dem
+"<na>"
+;	"na" foc
+	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<hmung>"
+	"hmung" v
+"<yi>"
+;	"yi" agr p3 pl
+;	"yi" agr o2 pl
+;	"yi" agr o3 pl
+;	"yi" agr o2 pl neg
+;	"yi" agr o3 pl neg
+"<ma>"
+	"ma" qp
+;	"ma" det def
+"<.>"
+	"." sent
+
+#sentence 43
+"<ahe>"
+	"ahe" n
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<thlung>"
+	"thlung" adj
+"<ma>"
+	"ma" qp
+;	"ma" det def
+"<.>"
+	"." sent
+
+#sentence 44
+"<buohla>"
+	"buohla" n
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<ning>"
+	"ning" v
+;	"ning" n
+"<aa>"
+;	"aa" n
+	"aa" irr
+"<ma>"
+	"ma" qp
+;	"ma" det def
+"<.>"
+	"." sent
+
+#sentence 45
+"<Zai>"
+	"Zai" np
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<Bawi>"
+	"Bawi" np
+"<ta>"
+;	"ta" v
+;	"ta" inst
+	"ta" agt
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<ning>"
+	"ning" v
+;	"ning" n
+"<pa>"
+;	"pa" cl
+	"pa" nmlz
+;	"pa" ben
+"<ahe>"
+	"ahe" n
+"<kha>"
+	"kha" dem
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<calyi>"
+	"calyi" v
+"<ma>"
+	"ma" qp
+;	"ma" det def
+"<.>"
+	"." sent
+
+#sentence 46
+"<Khaapa>"
+	"khaapa" qst
+"<kha>"
+	"kha" dem
+"<ma>"
+	"ma" qp
+;	"ma" det def
+"<na>"
+;	"na" foc
+	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<sawbya>"
+	"sawbya" n
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<cuo>"
+	"cuo" v
+;	"cuo" n
+"<.>"
+	"." sent
+
+#sentence 47
+"<cawsaapaa>"
+	"cawsaapaa" n
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<saruopa>"
+	"saruopa" n
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<lee>"
+	"lee" adj
+;	"lee" nrel
+"<pa>"
+;	"pa" cl
+	"pa" nmlz
+;	"pa" ben
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<cade>"
+	"cade" v
+"<.>"
+	"." sent
+
+#sentence 48
+"<Zai>"
+	"Zai" np
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<cuesaa>"
+	"cuesaa" n
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<chung>"
+	"chung" v
+;	"chung" nrel
+"<.>"
+	"." sent
+
+#sentence 49
+"<capaapaa>"
+	"capaapaa" n
+"<ta>"
+;	"ta" v
+;	"ta" inst
+	"ta" agt
+"<va>"
+	"va" n
+;	"va" neg
+;	"va" dei and
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<paruv>"
+	"paruv" v
+"<.>"
+	"." sent
+
+#sentence 50
+"<haatiynung>"
+	"haatiynung" n
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<aa>"
+	"aa" n
+;	"aa" irr
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<thie>"
+	"thie" v
+"<.>"
+	"." sent
+
+#sentence 51
+"<haatiynung>"
+	"haatiynung" n
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<ruo>"
+	"ruo" v
+;	"ruo" n
+"<te>"
+;	"te" v
+;	"te" fut
+	"te" cvb
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<cakuo>"
+	"cakuo" v
+"<.>"
+	"." sent
+
+#sentence 52
+"<aruo>"
+	"aruo" n
+"<vaw>"
+;	"vaw" v
+	"vaw" adj
+"<pa>"
+;	"pa" cl
+	"pa" nmlz
+;	"pa" ben
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<haatiynung>"
+	"haatiynung" n
+"<ta>"
+;	"ta" v
+;	"ta" inst
+	"ta" agt
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<ciy>"
+	"ciy" v
+;	"ciy" n
+;	"ciy" agr p2 sg
+"<.>"
+	"." sent
+
+#sentence 53
+"<ziekuo>"
+	"ziekuo" n
+"<lee>"
+	"lee" adj
+;	"lee" nrel
+"<pa>"
+;	"pa" cl
+	"pa" nmlz
+;	"pa" ben
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<pazuv>"
+	"pazuv" n
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<thie>"
+	"thie" v
+"<.>"
+	"." sent
+
+#sentence 54
+"<luathlutuv>"
+	"luathlutuv" n
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<ahe>"
+	"ahe" n
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<ling>"
+	"ling" v
+"<.>"
+	"." sent
+
+#sentence 55
+"<na>"
+;	"na" foc
+	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<cungle>"
+	"cungle" n
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<i>"
+	"i" agr p1 sg
+"<cungle>"
+	"cungle" n
+"<laa>"
+	"laa" comp
+"<alung>"
+;	"alung" n
+	"alung" adj
+"<vie>"
+;	"vie" adv
+	"vie" comp
+;	"vie" dei ven
+"<.>"
+	"." sent
+
+#sentence 56
+"<Bawi>"
+	"Bawi" np
+"<hne>"
+	"hne" cnjcoo
+"<kama>"
+	"kama" p1 sg
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<ahe>"
+	"ahe" n
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<ima>"
+	"ima" agr p1 pl
+"<calyi>"
+	"calyi" v
+"<.>"
+	"." sent
+
+#sentence 57
+"<nama>"
+	"nama" p2 sg
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<alung>"
+	"alung" n
+;	"alung" adj
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<suv>"
+	"suv" v
+"<.>"
+	"." sent
+
+#sentence 58
+"<luathlutuv>"
+	"luathlutuv" n
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<ahe>"
+	"ahe" n
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<ling>"
+	"ling" v
+"<.>"
+	"." sent
+
+#sentence 59
+"<ing>"
+	"ing" n
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<tluo>"
+;	"tluo" v
+	"tluo" n
+"<cung>"
+	"cung" nrel
+"<lie>"
+;	"lie" v
+	"lie" loc post
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<aw>"
+	"aw" v
+;	"aw" aff
+"<.>"
+	"." sent
+
+#sentence 60
+"<haatiynung>"
+	"haatiynung" n
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<luopuv>"
+	"luopuv" n
+"<lie>"
+;	"lie" v
+	"lie" loc post
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<ruo>"
+	"ruo" v
+;	"ruo" n
+"<.>"
+	"." sent
+
+#sentence 61
+"<Bawi>"
+	"Bawi" np
+"<ta>"
+;	"ta" v
+;	"ta" inst
+	"ta" agt
+"<avuochaning>"
+	"avuochaning" adv
+"<caauv>"
+	"caauv" n
+"<uvkha>"
+	"kha" num
+		"uv" cl
+"<chadaw>"
+	"chadaw" n
+"<lie>"
+;	"lie" v
+	"lie" loc post
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<calyi>"
+	"calyi" v
+"<.>"
+	"." sent
+
+#sentence 62
+"<ziekuo>"
+	"ziekuo" n
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<pazuv>"
+	"pazuv" n
+"<taa>"
+	"taa" adj
+"<ta>"
+;	"ta" v
+;	"ta" inst
+	"ta" agt
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<thie>"
+	"thie" v
+"<.>"
+	"." sent
+
+#sentence 63
+"<haatiytie>"
+	"haatiytie" n
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<ama>"
+;	"ama" p3 pl
+	"ama" agr p3 pl
+"<cang>"
+	"cang" v
+"<.>"
+	"." sent
+
+#sentence 64
+"<khaapa>"
+	"khaapa" qst
+"<sawbya>"
+	"sawbya" n
+"<kha>"
+	"kha" dem
+"<ma>"
+	"ma" qp
+;	"ma" det def
+"<na>"
+;	"na" foc
+	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<sawbya>"
+	"sawbya" n
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<cuo>"
+	"cuo" v
+;	"cuo" n
+"<.>"
+	"." sent
+
+#sentence 65
+"<apuv>"
+	"apuv" n
+"<lie>"
+;	"lie" v
+	"lie" loc post
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<aw>"
+	"aw" v
+;	"aw" aff
+"<pa>"
+;	"pa" cl
+	"pa" nmlz
+;	"pa" ben
+"<paa>"
+	"paa" n
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<aruo>"
+	"aruo" n
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<tluo>"
+;	"tluo" v
+	"tluo" n
+"<lie>"
+;	"lie" v
+	"lie" loc post
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<hnyi>"
+	"hnyi" v
+"<.>"
+	"." sent
+
+#sentence 66
+"<ahe>"
+	"ahe" n
+"<na>"
+;	"na" foc
+	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<calyi>"
+	"calyi" v
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<pa>"
+;	"pa" cl
+	"pa" nmlz
+;	"pa" ben
+"<i>"
+	"i" agr p1 sg
+"<pachang>"
+	"pachang" v
+"<.>"
+	"." sent
+
+#sentence 67
+"<Bawi>"
+	"Bawi" np
+"<ta>"
+;	"ta" v
+;	"ta" inst
+	"ta" agt
+"<khaapa>"
+	"khaapa" qst
+"<ma>"
+	"ma" qp
+;	"ma" det def
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<calyi>"
+	"calyi" v
+"<.>"
+	"." sent
+
+#sentence 68
+"<luathlutuv>"
+	"luathlutuv" n
+"<ta>"
+;	"ta" v
+;	"ta" inst
+	"ta" agt
+"<ahe>"
+	"ahe" n
+"<kung>"
+	"kung" n
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<pu>"
+	"pu" v
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<ta>"
+	"ta" v
+;	"ta" inst
+;	"ta" agt
+"<.>"
+	"." sent
+
+#sentence 69
+"<taataapa>"
+	"taataapa" n
+"<ta>"
+;   "ta" v
+;   "ta" inst
+	"ta" agt
+"<chuovyi>"
+	"chuovyi" n
+"<kha>"
+	"kha" dem
+"<a>"
+;   "a" p3 sg
+	"a" agr p3 sg
+"<ning>"
+;   "ning" v
+	"ning" n
+"<.>"
+	"." sent
+
+#sentence 70
+"<pavaa>"
+	"pavaa" n
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<zu>"
+	"zu" v
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<ta>"
+	"ta" v
+;	"ta" inst
+;	"ta" agt
+"<.>"
+	"." sent
+
+#sentence 71
+"<i>"
+	"i" agr p1 sg
+"<aw>"
+	"aw" v
+;	"aw" aff
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<pa>"
+;	"pa" cl
+	"pa" nmlz
+;	"pa" ben
+"<ing>"
+	"ing" n
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<vaw>"
+;	"vaw" v
+	"vaw" adj
+"<.>"
+	"." sent
+
+#sentence 72
+"<caauv>"
+	"caauv" n
+"<na>"
+;	"na" foc
+	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<ri>"
+	"ri" v
+"<pa>"
+;	"pa" cl
+	"pa" nmlz
+;	"pa" ben
+"<kha>"
+	"kha" dem
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<pha>"
+	"pha" v
+"<sa>"
+;	"sa" n
+;	"sa" adv
+	"sa" emph
+"<pa>"
+;	"pa" cl
+	"pa" nmlz
+;	"pa" ben
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<cuo>"
+	"cuo" v
+;	"cuo" n
+"<.>"
+	"." sent
+
+#sentence 73
+"<Zai>"
+	"Zai" np
+"<ta>"
+;	"ta" v
+;	"ta" inst
+	"ta" agt
+"<capaapaa>"
+	"capaapaa" n
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<hmung>"
+	"hmung" v
+"<.>"
+	"." sent
+
+#sentence 74
+"<cawsaapaa>"
+	"cawsaapaa" n
+"<ta>"
+;	"ta" v
+;	"ta" inst
+	"ta" agt
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<cade>"
+	"cade" v
+"<pa>"
+;	"pa" cl
+	"pa" nmlz
+;	"pa" ben
+"<saruopa>"
+	"saruopa" n
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<lee>"
+	"lee" adj
+;	"lee" nrel
+"<.>"
+	"." sent
+
+#sentence 75
+"<va>"
+	"va" n
+;	"va" neg
+;	"va" dei and
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<paruv>"
+	"paruv" v
+"<pa>"
+;	"pa" cl
+	"pa" nmlz
+;	"pa" ben
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<Zai>"
+	"Zai" np
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<cuo>"
+	"cuo" v
+;	"cuo" n
+"<.>"
+	"." sent
+
+#sentence 76
+"<sa>"
+	"sa" n
+;	"sa" adv
+;	"sa" emph
+"<ima>"
+;	"ima" agr p1 pl
+"<chang>"
+	"chang" v
+"<pa>"
+;	"pa" cl
+	"pa" nmlz
+;	"pa" ben
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<pahuo>"
+	"pahuo" adj
+"<sa>"
+;	"sa" n
+;	"sa" adv
+	"sa" emph
+"<.>"
+	"." sent
+
+#sentence 77
+"<aruo>"
+	"aruo" n
+"<ruo>"
+;	"ruo" v
+	"ruo" n
+"<lie>"
+;	"lie" v
+	"lie" loc post
+"<a>"
+	"a" agr p3 sg 
+;	"a" p3 sg 
+"<ruo>"
+	"ruo" v
+;	"ruo" n
+"<lee>"
+	"lee" adj
+;	"lee" nrel
+"<pa>"
+;	"pa" cl
+	"pa" nmlz
+;	"pa" ben
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<thiy>"
+	"thiy" v
+;	"thiy" n
+"<.>"
+	"." sent
+
+#sentence 78
+"<capaapaa>"
+	"capaapaa" n
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<calyi>"
+	"calyi" v
+"<pa>"
+;	"pa" cl
+	"pa" nmlz
+;	"pa" ben
+"<aruo>"
+	"aruo" n
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<aruo>"
+	"aruo" n
+"<pha>"
+	"pha" v
+"<pa>"
+;	"pa" cl
+	"pa" nmlz
+;	"pa" ben
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<cuo>"
+	"cuo" v
+;	"cuo" n
+"<.>"
+	"." sent
+
+#sentence 79
+"<ruo>"
+;	"ruo" v
+	"ruo" n
+"<lie>"
+;	"lie" v
+	"lie" loc post
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<aw>"
+	"aw" v
+;	"aw" aff
+"<pa>"
+;	"pa" cl
+	"pa" nmlz
+;	"pa" ben
+"<aruo>"
+	"aruo" n
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<vaw>"
+;	"vaw" v
+	"vaw" adj
+"<.>"
+	"." sent
+
+#sentence 80
+"<avuochaning>"
+	"avuochaning" adv
+"<capaapaa>"
+	"capaapaa" n
+"<ta>"
+;	"ta" v
+;	"ta" inst
+	"ta" agt
+"<aruo>"
+	"aruo" n
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<calyi>"
+	"calyi" v
+"<pa>"
+;	"pa" cl
+	"pa" nmlz
+;	"pa" ben
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<vaw>"
+;	"vaw" v
+	"vaw" adj
+"<.>"
+	"." sent
+
+#sentence 81
+"<apuv>"
+	"apuv" n
+"<lie>"
+;	"lie" v
+	"lie" loc post
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<aw>"
+	"aw" v
+;	"aw" aff
+"<pa>"
+;	"pa" cl
+	"pa" nmlz
+;	"pa" ben
+"<cawsaapaa>"
+	"cawsaapaa" n
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<aruo>"
+	"aruo" n
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<hnyi>"
+	"hnyi" v
+"<.>"
+	"." sent
+
+#sentence 82
+"<ruo>"
+;	"ruo" v
+	"ruo" n
+"<lie>"
+;	"lie" v
+	"lie" loc post
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<ruo>"
+	"ruo" v
+;	"ruo" n
+"<pa>"
+;	"pa" cl
+	"pa" nmlz
+;	"pa" ben
+"<canungnung>"
+	"canungnung" n
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<i>"
+	"i" agr p1 sg
+"<viesaa>"
+	"viesaa" n
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<cuo>"
+	"cuo" v
+;	"cuo" n
+"<.>"
+	"." sent
+
+#sentence 83
+"<canungnung>"
+	"canungnung" n
+"<na>"
+;	"na" foc
+	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<hmung>"
+	"hmung" v
+"<pa>"
+;	"pa" cl
+	"pa" nmlz
+;	"pa" ben
+"<kha>"
+	"kha" dem
+"<i>"
+	"i" agr p1 sg
+"<tlechuo>"
+	"tlechuo" v
+"<.>"
+	"." sent
+
+#sentence 84
+"<capaapaa>"
+	"capaapaa" n
+"<ta>"
+;	"ta" v
+;	"ta" inst
+	"ta" agt
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<thaw>"
+	"thaw" v
+"<pa>"
+;	"pa" cl
+	"pa" nmlz
+;	"pa" ben
+"<alung>"
+	"alung" n
+;	"alung" adj
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<lee>"
+	"lee" adj
+;	"lee" nrel
+"<sa>"
+;	"sa" n
+;	"sa" adv
+	"sa" emph
+"<.>"
+	"." sent
+
+#sentence 85
+"<tluo>"
+;	"tluo" v
+	"tluo" n
+"<cung>"
+	"cung" nrel
+"<lie>"
+;	"lie" v
+	"lie" loc post
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<aw>"
+	"aw" v
+;	"aw" aff
+"<pa>"
+;	"pa" cl
+	"pa" nmlz
+;	"pa" ben
+"<ing>"
+	"ing" n
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<puvthe>"
+	"puvthe" adj
+"<.>"
+	"." sent
+
+#sentence 86
+"<haatiynung>"
+	"haatiynung" n
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<chi>"
+	"chi" adj
+"<pa>"
+;	"pa" cl
+	"pa" nmlz
+;	"pa" ben
+"<aruo>"
+	"aruo" n
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<i>"
+	"i" agr p1 sg
+"<ciy>"
+	"ciy" v
+;	"ciy" n
+;	"ciy" agr p2 sg
+"<.>"
+	"." sent
+
+#sentence 87
+"<Zai>"
+	"Zai" np
+"<ta>"
+;	"ta" v
+;	"ta" inst
+	"ta" agt
+"<caauv>"
+	"caauv" n
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<calyi>"
+	"calyi" v
+"<.>"
+	"." sent
+
+#sentence 88
+"<haatiynung>"
+	"haatiynung" n
+"<ta>"
+;	"ta" v
+;	"ta" inst
+	"ta" agt
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<thie>"
+	"thie" v
+"<pa>"
+;	"pa" cl
+	"pa" nmlz
+;	"pa" ben
+"<aa>"
+	"aa" n
+;	"aa" irr
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<macuo>"
+	"macuo" adj
+"<sa>"
+;	"sa" n
+;	"sa" adv
+	"sa" emph
+"<tli>"
+	"tli" adv
+"<.>"
+	"." sent
+
+#sentence 89
+"<Myi>"
+	"myi" n
+"<ta>"
+;	"ta" v
+;	"ta" inst
+	"ta" agt
+"<ing>"
+	"ing" n
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<para>"
+	"para" v
+"<.>"
+	"." sent
+
+#sentence 90
+"<malie>"
+	"malie" agr o1 pl
+;	"malie" agr o1 pl neg
+"<na>"
+;	"na" foc
+	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<chang>"
+	"chang" v
+"<pa>"
+;	"pa" cl
+;	"pa" nmlz
+	"pa" ben
+"<.>"
+	"." sent
+
+#sentence 91
+"<Uv>"
+	"uv" n
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<ma>"
+;	"ma" qp
+	"ma" det def
+"<ing>"
+	"ing" n
+"<lie>"
+;	"lie" v
+	"lie" loc post
+"<hing>"
+	"hing" dem
+;	"hing" det dem
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<aw>"
+	"aw" v
+;	"aw" aff
+"<.>"
+	"." sent
+
+#sentence 92
+"<Bawi>"
+	"Bawi" np
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<kuv>"
+	"kuv" n
+"<na>"
+	“na” foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<myi>"
+	"myi" n
+"<ta>"
+;	"ta" v
+;	"ta" inst
+	"ta" agt
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<kuo>"
+	"kuo" v
+"<.>"
+	"." sent
+
+#sentence 93
+"<Zai>"
+	"Zai" np
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<ziekuo>"
+	"ziekuo" n
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<ima>"
+;	"ima" agr p1 pl
+"<tlechuo>"
+	"tlechuo" v
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<ta>"
+	"ta" v
+;	"ta" inst
+;	"ta" agt
+"<.>"
+	"." sent
+
+#sentence 94
+"<capaapaa>"
+	"capaapaa" n
+"<ta>"
+;	"ta" v
+;	"ta" inst
+	"ta" agt
+"<Bawi>"
+	"Bawi" np
+"<kha>"
+	"kha" dem
+"<aruo>"
+	"aruo" n
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<zaa>"
+	"zaa" v
+;	"a" mid
+;		"za" dei dwn
+"<.>"
+	"." sent
+
+#sentence 95
+"<capaapaa>"
+	"capaapaa" n
+"<ing>"
+	"ing" n
+"<kha>"
+	"kha" dem
+"<tluo>"
+;	"tluo" v
+	"tluo" n
+"<lie>"
+;	"lie" v
+	"lie" loc post
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<aw>"
+	"aw" v
+;	"aw" aff
+"<.>"
+	"." sent
+
+#sentence 96
+"<ma>"
+;	"ma" qp
+	"ma" det def
+"<cizung>"
+	"cizung" n
+"<hing>"
+	"hing" dem
+;	"hing" det dem
+"<ta>"
+;	"ta" v
+	"ta" inst
+;	"ta" agt
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<canungnung>"
+	"canungnung" n
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<a>"
+;	"a" p3 sg 
+	"a" agr p3 sg 
+"<rukhya>"
+	"rukhya" v
+"<.>"
+	"." sent
+
+#sentence 97
+"<Zai>"
+	"Zai" np
+"<hne>"
+	"hne" cnjcoo
+"<kama>"
+	"kama" p1 sg
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<ima>"
+;	"ima" agr p1 pl
+"<luo>"
+	"luo" v
+;	"luo" loc post
+"<.>"
+	"." sent
+
+#sentence 98
+"<bienaing>"
+	"bienaing" n
+"<lie>"
+;	"lie" v
+	"lie" loc post
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<Zai>"
+	"Zai" np
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<Bawi>"
+	"Bawi" np
+"<kha>"
+	"kha" dem
+"<lasaw>"
+	"lasaw" n
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<pi>"
+	"pi" v
+"<.>"
+	"." sent
+
+#sentence 99
+"<Zai>"
+	"Zai" np
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<ingchiy>"
+	"ingchiy" n
+"<ta>"
+;	"ta" v
+	"ta" inst
+;	"ta" agt
+"<dakhung>"
+	"dakhung" n
+"<kha>"
+	"kha" dem
+"<ina>"
+	"ina" agr o1 sg
+"<phiy>"
+	"phiy" v
+"<pa>"
+;	"pa" cl
+;	"pa" nmlz
+	"pa" ben
+"<.>"
+	"." sent
+
+#sentence 100
+"<canungnung>"
+	"canungnung" n
+"<ta>"
+;	"ta" v
+;	"ta" inst
+	"ta" agt
+"<bi>"
+	"bi" n
+"<ina>"
+	"ina" agr o1 sg
+"<a>"
+;	"a" p3 sg
+	"a" agr p3 sg
+"<chang>"
+	"chang" v
+"<pa>"
+;	"pa" cl
+;	"pa" nmlz
+	"pa" ben
+"<.>"
+	"." sent
+
+#sentence 101
+"<Ingkhuo>"
+	"ingkhuo" n
+"<chung>"
+;	"chung" v
+	"chung" nrel
+"<lie>"
+;	"lie" v
+	"lie" loc post
+"<na>"
+	"na" foc
+;	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<cawsaa>"
+	"cawsaa" n
+"<pa>"
+	"pa" cl
+;	"pa" nmlz
+;	"pa" ben
+"<thung>"
+	"thung" n
+"<ama>"
+;	"ama" p3 pl
+	"ama" agr p3 pl
+"<aw>"
+;	"aw" v
+	"aw" aff
+"<.>"
+	"." sent
+
+#sentence 102
+"<Ahung>"
+	"ahung" qst
+"<ma>"
+	"ma" qp
+;	"ma" det def
+"<ma>"
+;	"ma" qp
+	"ma" det def
+"<caauv>"
+	"caauv" n
+"<hing>"
+	"hing" dem
+;	"hing" det dem
+"<na>"
+;	"na" foc
+	"na" agr p2 sg
+;	"na" agr o1 sg neg
+"<pi>"
+	"pi" v
+"<khing>"
+	"khing" v
+"<.>"
+	"." sent
+
+#sentence 103
+"<Zai>"
+    "Zai" np
+"<hne>"
+	"hne" cnjcoo
+"<Bawi>"
+	"Bawi" np
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<ama>"
+;	"ama" p3 pl
+	"ama" agr p3 pl
+"<vie>"
+;	"vie" adv
+;	"vie" comp
+	"vie" dei ven
+"<chiy>"
+	"chiy" v
+"<.>"
+	"." sent
+
+#sentence 104
+"<Haatiytie>"
+	"haatiytie" n
+"<hluvpuv>"
+	"puv" nmlz
+		"hluv" qnt
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<ahe>"
+	"ahe" n
+"<ama>"
+;	"ama" p3 pl
+	"ama" agr p3 pl
+"<tlechuo>"
+	"tlechuo" v
+"<.>"
+	"." sent
+
+#sentence 105
+"<Zai>"
+	"Zai" np
+"<hne>"
+	"hne" cnjcoo
+"<Bawi>"
+	"Bawi" np
+"<ta>"
+;	"ta" v
+;	"ta" inst
+	"ta" agt
+"<haatiytie>"
+	"haatiytie" n
+"<hluvpuv>"
+	"puv" nmlz
+		"hluv" qnt
+"<ca>"
+	"ca" top
+;	"ca" agr o2 sg
+;	"ca" agr o2 sg neg
+"<ahe>"
+	"ahe" n
+"<ama>"
+;	"ama" p3 pl
+	"ama" agr p3 pl
+"<tlechuo>"
+	"tlechuo" v
+"<kha>"
+	"kha" dem
+"<ama>"
+;	"ama" p3 pl
+	"ama" agr p3 pl
+"<pachang>"
+    "pachang" v
+"<..>"
+	"." sent
+
+
